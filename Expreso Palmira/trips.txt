@@ -1,0 +1,47 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+CLOTdT-CLO,FULLW,CLOTdT-CLO,Cali Aeropuerto,0,,CLOTdT-CLO_CLOTdT-CLO
+CLOTdT-CLO,FULLW,CLO-CLOTdT,Cali Terminal de Transporte,1,,CLO-CLOTdT_CLOTdT-CLO
+CLOTdT-PAL,FULLW,CLOTdT-PAL,Palmira,0,,CLOTdT-PAL_CLOTdT-PAL
+CLOTdT-PAL,FULLW,PAL-CLOTdT,Cali Terminal de Transporte,0,,PAL-CLOTdT_CLOTdT-PAL
+CLOTdT-TdT-Buga,FULLW,CLOTdT-TdT-Buga,Buga Terminal,0,,CLOTdT-TdT-Buga_CLOTdT-TdT-Buga
+CLOTdT-TdT-Buga,FULLW,TdT-Buga-CLOTdT,Cali Terminal de Transporte,1,,TdT-Buga-CLOTdT_CLOTdT-TdT-Buga
+CLOTdT-TdT-Popayan,FULLW,CLOTdT-TdT-Popayan,Popayan - Mettro,0,,CLOTdT-TdT-Popayan_CLOTdT-TdT-Popayan
+CLOTdT-TdT-Popayan,FULLW,TdT-Popayan-CLOTdT,Cali - Metro,1,,TdT-Popayan-CLOTdT_CLOTdT-TdT-Popayan
+CLOTdT-TdT-Tulua,FULLW,CLOTdT-TdT-Tulua,Tulua Terminal,0,,CLOTdT-TdT-Tulua_CLOTdT-TdT-Tulua
+CLOTdT-TdT-Tulua,FULLW,TdT-Tulua-CLOTdT,Cali Terminal de Transporte,1,,TdT-Tulua-CLOTdT_CLOTdT-TdT-Tulua
+CLOTdT-TdT-Armenia,FULLW,CLOTdT-TdT-Armenia,Armenia Terminal,0,,CLOTdT-TdT-Armenia_CLOTdT-TdT-Armenia
+CLOTdT-TdT-Armenia,FULLW,TdT-Armenia-CLOTdT,Cali Terminal de Transporte,1,,TdT-Armenia-CLOTdT_CLOTdT-TdT-Armenia
+CLOTdT-BOG,FULLW,CLOTdT-BOG-S26-500,Bogotá S26,0,,CLOTdT-BOG-S26-500_CLOTdT-BOG
+CLOTdT-BOG,FULLW,CLOTdT-BOG-S26-630,Bogotá S26,0,,CLOTdT-BOG-S26-630_CLOTdT-BOG
+CLOTdT-BOG,FULLW,CLOTdT-BOG-S26-930,Bogotá S26,0,,CLOTdT-BOG-S26-930_CLOTdT-BOG
+CLOTdT-BOG,FULLW,CLOTdT-BOG-S26-1030,Bogotá S26,0,,CLOTdT-BOG-S26-1030_CLOTdT-BOG
+CLOTdT-BOG,FULLW,CLOTdT-BOG-S26-1230,Bogotá S26,0,,CLOTdT-BOG-S26-1230_CLOTdT-BOG
+CLOTdT-BOG,FULLW,CLOTdT-BOG-S26-1330,Bogotá S26,0,,CLOTdT-BOG-S26-1330_CLOTdT-BOG
+CLOTdT-TdT-Ibaque,FULLW,CLOTdT-TdT-Ibaque-S26,Ibaque - S26,0,,CLOTdT-TdT-Ibaque-S26_CLOTdT-TdT-Ibaque
+CLOTdT-BOG,FULLW,CLOTdT-BOG-S26M-1830,Bogotá S26 Maxxi,0,,CLOTdT-BOG-S26M-1830_CLOTdT-BOG
+CLOTdT-BOG,FULLW,CLOTdT-BOG-S26M-1930,Bogotá S26 Maxxi,0,,CLOTdT-BOG-S26M-1930_CLOTdT-BOG
+CLOTdT-BOG,FULLW,CLOTdT-BOG-S26M-2015,Bogotá S26 Maxxi,0,,CLOTdT-BOG-S26M-2015_CLOTdT-BOG
+CLOTdT-BOG,FULLW,CLOTdT-BOG-S26M-2315,Bogotá S26 Maxxi,0,,CLOTdT-BOG-S26M-2315_CLOTdT-BOG
+CLOTdT-BOG,FULLW,CLOTdT-BOG-S26MD-2100,Bogotá S26 Maxxi dupplo,0,,CLOTdT-BOG-S26MD-2100_CLOTdT-BOG
+CLOTdT-BOG,FULLW,CLOTdT-BOG-S26MD-2215,Bogotá S26 Maxxi dupplo,0,,CLOTdT-BOG-S26MD-2215_CLOTdT-BOG
+CLOTdT-CAL,FULLW,CLOTdT-PAL-CALCEDONIA-700,Calcedonai - Mettro,0,,CLOTdT-PAL-CALCEDONIA-700_CLOTdT-CAL
+CLOTdT-CAL,FULLW,CLOTdT-PAL-CALCEDONIA-930,Calcedonai - Mettro,0,,CLOTdT-PAL-CALCEDONIA-930_CLOTdT-CAL
+CLOTdT-CAL,FULLW,CLOTdT-PAL-CALCEDONIA-1230,Calcedonai - Mettro,0,,CLOTdT-PAL-CALCEDONIA-1230_CLOTdT-CAL
+CLOTdT-CAL,FULLW,CLOTdT-PAL-CALCEDONIA-1730,Calcedonai - Mettro,0,,CLOTdT-PAL-CALCEDONIA-1730_CLOTdT-CAL
+CLOTdT-TdT-Pereira-Rozo,FULLW,CLOTdT-TdT-Pereira-Rozo,Pereira - Mettro,0,,CLOTdT-TdT-Pereira-Rozo_CLOTdT-TdT-Pereira-Rozo
+CLOTdT-TdT-Manizales-Palm,FULLW,CLOTdT-TdT-Manizales-Palm,Manizales - Mettro,0,,CLOTdT-TdT-Manizales-Palm_CLOTdT-TdT-Manizales-Palm
+TdT-Manizales-TdT-Pereira,FULLW,TdT-Manizales-TdT-Pereira,Pereira - Mettro,0,,TdT-Manizales-TdT-Pereira_TdT-Manizales-TdT-Pereira
+CLOTdT-SEV,FULLW,CLOTdT-PAL-Sevilla-730,Sevilla - Mettro,0,,CLOTdT-PAL-Sevilla-730_CLOTdT-SEV
+CLOTdT-SEV,FULLW,CLOTdT-PAL-Sevilla-930,Sevilla - Mettro,0,,CLOTdT-PAL-Sevilla-930_CLOTdT-SEV
+CLOTdT-SEV,FULLW,CLOTdT-PAL-Sevilla-1230,Sevilla - Mettro,0,,CLOTdT-PAL-Sevilla-1230_CLOTdT-SEV
+CLOTdT-SEV,FULLW,CLOTdT-PAL-Sevilla-1730,Sevilla - Mettro,0,,CLOTdT-PAL-Sevilla-1730_CLOTdT-SEV
+CLOTdT-SEV,FULLW,PAL-Sevilla-CLOTdT-730,Cali - Mettro,1,,PAL-Sevilla-CLOTdT-730_CLOTdT-SEV
+CLOTdT-SEV,FULLW,PAL-Sevilla-CLOTdT-1200,Cali - Mettro,1,,PAL-Sevilla-CLOTdT-1200_CLOTdT-SEV
+CLOTdT-SEV,FULLW,PAL-Sevilla-CLOTdT-1500,Cali - Mettro,1,,PAL-Sevilla-CLOTdT-1500_CLOTdT-SEV
+CLOTdT-SEV,FULLW,PAL-Sevilla-CLOTdT-1700,Cali - Mettro,1,,PAL-Sevilla-CLOTdT-1700_CLOTdT-SEV
+CLOTdT-MED,FULLW,CLOTdT-TdT-Medellin-Sur,Medellin - S26 Maxxi dupplo,0,,CLOTdT-TdT-Medellin-Sur_CLOTdT-MED
+CLOTdT-MED,FULLW,TdT-Medellin-Sur-CLOTdT,Cali - S26 Maxxi dupplo,1,,TdT-Medellin-Sur-CLOTdT_CLOTdT-MED
+PAL-MED,FULLW,PAL-BUS-TdT-Medellin-Sur,Medellin - S26 Maxxi dupplo,0,,PAL-BUS-TdT-Medellin-Sur_PAL-MED
+PAL-MED,FULLW,TdT-Medellin-Sur-PAL-BUS,Palmira - S26 Maxxi dupplo,1,,TdT-Medellin-Sur-PAL-BUS_PAL-MED
+TdT-Manizales-BOG,FULLW,TdT-Medellin-Sur-BOG,Bogotá - S26 Maxxi,0,,TdT-Medellin-Sur-BOG_TdT-Manizales-BOG
+TdT-Manizales-BOG,FULLW,BOG-TdT-Medellin-Sur,Manizales - S26 Maxxi,1,,BOG-TdT-Medellin-Sur_TdT-Manizales-BOG

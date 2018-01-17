@@ -1,0 +1,35 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+3101,TM,A0-1,Centro,,3,http://transmetro.gov.co/ruta/a0-1-centro,102D6C,FFFFFF
+3112,TM,A1-2,Las Palmas,,3,http://transmetro.gov.co/ruta/a1-2-las-palmas,102D6C,FFFFFF
+3113,TM,A1-3,Galán,,3,http://transmetro.gov.co/ruta/a1-3-galan,102D6C,FFFFFF
+921,TM,A2-1,Hipódromo,,3,http://transmetro.gov.co/ruta/a2-1-hipodromo,102D6C,FFFFFF
+3130,TM,A3-1,Villa Katanga,,3,http://transmetro.gov.co/ruta/a3-1-villa-katanga,102D6C,FFFFFF
+3320,TM,A3-2,Soledad 2000,,3,http://transmetro.gov.co/ruta/a3-2-soledad-2000,102D6C,FFFFFF
+3330,TM,A3-3,Manuela Beltrán,,3,http://transmetro.gov.co/ruta/a3-3-manuela-beltran,102D6C,FFFFFF
+3334,TM,A3-4,Villa Sol,,3,http://transmetro.gov.co/ruta/a3-4-villa-sol,102D6C,FFFFFF
+3335,TM,A3-5,Ciudadela Metropolitana,,3,http://transmetro.gov.co/ruta/a3-5-ciudadela-metropolitana,102D6C,FFFFFF
+3351,TM,A5-1,Los Robles,,3,http://transmetro.gov.co/ruta/a5-1-los-robles,102D6C,FFFFFF
+3353,TM,A5-3,La Central,,3,http://transmetro.gov.co/ruta/a5-3-la-central,102D6C,FFFFFF
+3606,TM,A6-6,Ciudadela,,3,http://transmetro.gov.co/ruta/a6-6-ciudadela,102D6C,FFFFFF
+7710,TM,A7-1,Miramar,,3,http://transmetro.gov.co/ruta/a7-1-miramar,102D6C,FFFFFF
+7410,TM,A7-4,Los Andes,,3,http://transmetro.gov.co/ruta/a7-4-los-andes,102D6C,FFFFFF
+8180,TM,A8-1,Paraíso,,3,http://transmetro.gov.co/ruta/a8-1-paraiso,102D6C,FFFFFF
+8201,TM,A8-2,Vía 40,,3,http://transmetro.gov.co/ruta/a8-2-40,102D6C,FFFFFF
+38831,TM,A8-3,Prado,,3,http://transmetro.gov.co/ruta/a8-3-prado,102D6C,FFFFFF
+9301,TM,A9-3,Buenavista,,3,http://transmetro.gov.co/ruta/a9-3-buenavista,102D6C,FFFFFF
+9401,TM,A9-4,Villa Santos,,3,http://transmetro.gov.co/ruta/a9-4-villa-santos,102D6C,FFFFFF
+1901,TM,B1,Barranquillita,,3,http://transmetro.gov.co/ruta/b1,FCF800,44AA06
+100,TM,B2,Barranquillita,,3,http://transmetro.gov.co/ruta/b2,FCF800,44AA06
+2101,TM,R1,Joe Arroyo,,3,http://transmetro.gov.co/ruta/r1,44AA06,FFFFFF
+101,TM,R2,Joe Arroyo,,3,http://transmetro.gov.co/ruta/r2,44AA06,FFFFFF
+2110,TM,R10,Joe Arroyo,,3,http://transmetro.gov.co/ruta/r10,44AA06,FFFFFF
+1101,TM,S1,Portal de Soledad,,3,http://transmetro.gov.co/ruta/s1,D60000,FFFFFF
+2201,TM,S2,Portal de Soledad,,3,http://transmetro.gov.co/ruta/s2,D60000,FFFFFF
+3110,TM,S10,Portal de Soledad,,3,http://transmetro.gov.co/ruta/s10,D60000,FFFFFF
+3030,TM,U30,Corredor Universitario,,3,http://transmetro.gov.co/ruta/u30-corredor-universitario,102D6C,FFFFFF
+4110,TM,B10,Barranquillita,,3,http://transmetro.gov.co/ruta/b10,FCF800,44AA06
+5120,TM,S20,Portal de Soledad,,3,http://transmetro.gov.co/ruta/s20,D60000,FFFFFF
+5050,TM,R50,Joe Arroyo,,3,http://transmetro.gov.co/ruta/r50,44AA06,FFFFFF
+5052,TM,S50,Joe Arroyo,,3,http://transmetro.gov.co/ruta/s50,D60000,FFFFFF
+2102,TM,R-1,Buenos A.-Joe Arroyo,,3,,44AA06,FFFFFF
+1102,TM,S-1,Esthercita F.-Portal de Soledad,,3,,D60000,FFFFFF

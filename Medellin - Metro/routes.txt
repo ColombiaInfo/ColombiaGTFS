@@ -1,0 +1,11 @@
+﻿route_type,route_id,route_short_name,route_long_name,agency_id,route_desc,route_color,route_text_color
+1302,MM-J,J,San Javier - La Aurora,MM,,F8B332,ffffff
+1302,MM-L,L,Santo Domingo Savio - Arví,MM,,9A681C,ffffff
+1302,MM-H,H,Oriente - Villa Sierra,MM,,FF0061,ffffff
+1302,MM-K,K,Acevedo - Santo Domingo Savio,MM,,C1D72F,ffffff
+1302,MM-M,M,Miraflores - Trece de Noviembre,MM,,622081,ffffff
+401,MM-B,B,San Antonio - San Javier,MM,,F78F1E,ffffff
+401,MM-A,A,Niquía - La Estrella,MM,,0054A4,ffffff
+900,MM-T-A,T-A,San Antonio - Oriente,MM,,159B4C,ffffff
+700,MM-1,1,Universidad de Medellín - Parque de Aranjuez,MM,,18A096,ffffff
+700,MM-2,2,Universidad de Medellín - Parque de Aranjuez,MM,,79C5C1,ffffff

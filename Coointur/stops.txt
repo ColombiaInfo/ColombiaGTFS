@@ -1,0 +1,16 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,parent_station,stop_timezone
+TdT-Monteria,Monteria,Terminal de Transporte,8.7478968,-75.8668536,,,,America/Bogota
+CI-BUS-Apartado,Apartado,Terminal de Transporte,7.87808,-76.63624,,,,America/Bogota
+CI-BUS-Belen-de-Bajira,Belen de Bajirá,Calle principal,7.371378,-76.7190828,,,,America/Bogota
+CI-BUS-Rioducio,Rioducio,Barrio Paraiso,7.43589, -77.11202,,,,America/Bogota
+CI-BUS-Arboletes,Arboletes,Calle principal,8.850331,-76.426388,,,,America/Bogota
+CI-BUS-Turbo,Turbo,Cra. 19 con calle 1ra,8.0951545,-76.7290992,,,,America/Bogota
+CI-BUS-San-Pedro-de-Uraba,San Pedro de Urabá,Cra. 50 No. 14-20 B/Centro,8.2770685,-76.3812672,,,,America/Bogota
+CI-BUS-Valencia,Valencia,Calle 14 Cra. 14-12 B/La Cruz,8.2571553,-76.1482676,,,,America/Bogota
+CI-BUS-Tierra-Alta,Tierra Alta,Cra. 13 No. 10-26 B/Centro,8.172386,-76.0591349,,,,America/Bogota
+CI-BUS-Chigorodo,Chigorodó,Terminal de Transporte,7.6695721,-76.6789403,,,,America/Bogota
+CI-BUS-Mutata,Mutatá,Calle Principal - Plaza de Mercado,7.2440113,-76.4372052,,,,America/Bogota
+CI-BUS-Necocli,Necocli,Cra. 44 con Calle 52 Esquina,8.4257333,-76.7846787,,,,America/Bogota
+CI-BUS-San-Juan-de-Uraba,San Juan de Urabá,Calle principal,8.762314, -76.526718,,,,America/Bogota
+CI-BUS-Los-Cordobas,Los Cordobas,??,8.8964604,-76.3549243,,,,America/Bogota
+CI-BUS-Las-Changas,Las Changas,??,8.54599,-76.57396,,,,

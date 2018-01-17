@@ -1,0 +1,2 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+TT,ROUTE_cf993193-87e1-455f-a18f-9186b2063526,Zipaquirá,Zipaquirá,,2,http://www.turistren.com.co/index.php/trayecto,FFFFFF,000000

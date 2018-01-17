@@ -1,0 +1,11 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+CLOTdT-CLO,CLOTdT-CLO,,,
+CLOTdT-PAL,CLOTdT-PAL,,,
+CLOTdT-TdT-Buga,CLOTdT-TdT-Buga,,,
+CLOTdT-TdT-Popayan,CLOTdT-TdT-Popayan,,,
+CLOTdT-TdT-Tulua,CLOTdT-TdT-Tulua,,,
+CLOTdT-TdT-Armenia,CLOTdT-TdT-Tulua,,,
+CLOTdT-CAL,CLOTdT-CAL,,,
+TdT-Manizales-TdT-Pereira,TdT-Manizales-TdT-Pereira,,,
+CLOTdT-PAL-Sevilla,CLOTdT-SEV,,,
+TdT-Manizales-BOG,TdT-Manizales-BOG,,,

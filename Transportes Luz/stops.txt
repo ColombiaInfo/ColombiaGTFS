@@ -1,0 +1,5 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,stop_timezone
+TdT-Monteria,,MONTERIA,Terminal de Transportes Calle 41 No.20-11 local 4,8.7478968,-75.8668536,,http://www.terminaldemonteria.com/,America/Bogota
+TdT-Cartagena,,CARTAGENA,Terminal de Transportes de Cartagena,10.4017036,-75.4594549,,http://www.terminaldecartagena.com,America/Bogota
+TdT-Barranquilla,,BARRANQUILLA,Terminal de Transportes de Barranquilla,10.9093463,-74.7937725,,http://www.ttbaq.com.co/,America/Bogota
+TdT-Medellin-Norte,,Medellin - Terminal Norte,,6.2482327,-75.5958372,,http://www.terminalesmedellin.com/,America/Bogota

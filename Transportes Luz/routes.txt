@@ -1,0 +1,4 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+MTR-CTG,TL,,Monteria - Cartagena,,3,,,
+MTR-BAQ,TL,,Monteria - Barranquilla,,3,,,
+MTR-MDE,TL,,Monteria - Medellin,,3,,,

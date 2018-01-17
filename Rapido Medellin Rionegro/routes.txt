@@ -1,0 +1,3 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+RMR-RioNegro-TdT-Medellin-Norte,RMR,,Rionegro - Terminal de Norte,via autopista Medellin - Bogota,3,,,
+RMR-RioNegro-TdT-Medellin-Sur,RMR,,Rionegro - Terminal de Sur,via Santa elena-glorieta aeropuerto jmc,3,,,

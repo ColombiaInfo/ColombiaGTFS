@@ -1,0 +1,3 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+1800,MioCable-001,,,
+1800,MioCable-002,,,

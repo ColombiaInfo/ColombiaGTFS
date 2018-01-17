@@ -1,0 +1,5 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+MioCable-001,FULLW,MioCable-001-A,Brisas de Mayo,0,,
+MioCable-001,FULLW,MioCable-001-B,Lleras Camargo,1,,
+MioCable-002,FULLW,MioCable-002-A,Lleras Camargo,0,,
+MioCable-002,FULLW,MioCable-002-B,Cañaveralejo,1,,

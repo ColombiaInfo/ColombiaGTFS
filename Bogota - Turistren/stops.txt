@@ -1,0 +1,6 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+STOP_43398171-8854-47b1-9215-58669070eea7,,La Caro,Description,4.8587598,-74.0273058,,,0,,,
+STOP_65309067-83c8-4e6c-98b6-cc1abac00766,,Sabana,Description,4.6081231,-74.0829670,,,0,,,
+STOP_858703ad-22db-4ccf-a3a6-e3ffc4820f08,,Zipaquirá,Description,5.0217560,-74.0010738,,,0,,,
+STOP_52e738c5-e75b-4c7b-8b49-2dd1651a00ca,,Usaquen,Description,4.6907734,-74.0379703,,,0,,,
+STOP_f21ad35c-4ae7-4701-b890-bdb10081f9e7,,Cajicá,Description,4.9163031,-74.0232396,,,0,,,

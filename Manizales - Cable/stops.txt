@@ -1,0 +1,7 @@
+stop_id,stop_name,stop_lat,stop_lon,stop_timezone,stop_code
+CAdM-001,Fundadores,5.0670483,-75.5114608,America/Bogota,
+CAdM-002,Betania,5.0580398,-75.5089170,America/Bogota,
+CAdM-003,Los Cámbulos,5.0500529,-75.5066590,America/Bogota,
+CAdM-004,Villamariá,5.0459128,-75.5122326,America/Bogota,
+CAdM-005,Camino de la Palma,5.0575085,-75.4845056,America/Bogota,
+CAdM-006,Los Yarumos,5.0633182,-75.4812324,America/Bogota,

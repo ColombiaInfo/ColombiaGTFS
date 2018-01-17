@@ -1,0 +1,13 @@
+trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_type,drop_off_time,shape_dist_traveled
+MTR-CTG,4:00:00,4:00:00,TdT-Monteria,1,,,,
+MTR-CTG,8:35:00,8:35:00,TdT-Cartagena,2,,,,
+MTR-BAQ,4:00:00,4:00:00,TdT-Monteria,1,,,,
+MTR-BAQ,10:00:00,10:00:00,TdT-Barranquilla,2,,,,
+MTR-MDE,4:00:00,4:00:00,TdT-Monteria,1,,,,
+MTR-MDE,11:35:00,11:35:00,TdT-Medellin-Norte,2,,,,
+CTG-MTR,4:00:00,4:00:00,TdT-Cartagena,1,,,,
+CTG-MTR,8:35:00,8:35:00,TdT-Monteria,2,,,,
+BAQ-MTR,4:00:00,4:00:00,TdT-Barranquilla,1,,,,
+BAQ-MTR,10:00:00,10:00:00,TdT-Monteria,2,,,,
+MDE-MTR,4:00:00,4:00:00,TdT-Medellin-Norte,1,,,,
+MDE-MTR,11:35:00,11:35:00,TdT-Monteria,2,,,,

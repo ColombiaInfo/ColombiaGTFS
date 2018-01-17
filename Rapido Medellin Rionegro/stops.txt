@@ -1,0 +1,5 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,stop_timezone
+TdT-Medellin-Sur,,Medellin - Terminal del Sur,,6.216341231,-75.58712571,,http://www.terminaldelsur.com/,America/Bogota
+TdT-Medellin-Norte,,Medellin - Terminal Norte,,6.2482327,-75.5958372,,http://www.terminalesmedellin.com/,America/Bogota
+RMR-RioNegro,,Terminal Rionegro,,6.1507914,-75.3729361,,,America/Bogota
+RMR-RioNegroAeroPeurto,,AeroPuerto RioNegro,,6.170909,-75.427822,,,America/Bogota

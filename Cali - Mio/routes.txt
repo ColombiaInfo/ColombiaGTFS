@@ -1,0 +1,96 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+131,MIO,T31,Chiminangos - Universidades,3
+140,MIO,T40,T. Andres Sanin - Centro,3
+2102,MIO,P10B,Universidades-El Ingenio-Centro,3
+2301,MIO,P30A,Flora Indutrial-T.Menga-Centro,3
+2471,MIO,P47A,Unidad Deportiva - T. Andres Sanin,3
+2472,MIO,P47B,T. Andres Sanin - Unidad Deportiva,3
+322,MIO,A22,Brisas de los Alamos,3
+331,MIO,A31,Floralia - Chiminangos,3
+332,MIO,A32,Chiminangos-Flora Industrial,3
+333,MIO,A33,Ciudadela Floralia-Chiminangos,3
+334,MIO,A34,Alcazares-Chiminangos,3
+373,MIO,A73,Napoles - Caldas -Canaveralejo,3
+376,MIO,A76,HUV - Canaveralejo,3
+421,MIO,E21,Terminal Menga - Universidades,3
+431,MIO,E31,Expreso Chiminagos -Universidades,3
+303,MIO,A03,Nacional-Sta librada,3
+304,MIO,A04,Bellavista-Manzana del Saber,3
+1471,MIO,T47A,T. Andres Sanin-Unidad Deportiva,3
+1472,MIO,T47B,T. Andres Sanin - Unidad Deportiva,3
+437,MIO,E37,Chiminangos-Unidad Deportiva,3
+3171,MIO,A17A,Universidades-UAO-San Martin,3
+257,MIO,P57,Comuneros - Unidad Deportiva,3
+3071,MIO,A07A,Conquistadores - Santa Elena - Centro,3
+3011,MIO,A01A,San Bosco-CAM-Centro,3
+3123,MIO,A12C,Melendez - Capri,3
+3411,MIO,A41A,Pizamos-T. Andres Sanin,3
+3412,MIO,A41B,Decepaz - Terminal Andres Sanin,3
+3421,MIO,A42A,T. Sanin - La Casona - Nuevo Latir,3
+3422,MIO,A42B,La Casona - Terminal Andres Sanin,3
+352,MIO,A52,Hospital Isaias Duarte Cancino-Nuevo Latir,3
+3781,MIO,A78A,Los Chorros - Caldas,3
+302,MIO,A02,Atenas-Zoologico-San Bosco,3
+3172,MIO,A17B,Universidades - Hormiguero,3
+318,MIO,A18,Hacienda El Castillo - Universidades,3
+323,MIO,A23,Ciudadela Los Alamos-T. Menga,3
+347,MIO,A47,Pizamos-Andres Sanin,3
+375,MIO,A75,La Sirena-Terminal Canaveralejo,3
+272,MIO,P72,Capri - Centro Empresa,3
+356,MIO,A56,Pizamos - Nuevo Latir,3
+452,MIO,E52,Nuevo Latir - Terminal,3
+2101,MIO,P10A,Universidades -Centro,3
+2243,MIO,P24C,Terminal Menga-A.Sanin-Decepaz,3
+2402,MIO,P40B,T.Andres Sanin-Sena-Centro,3
+3452,MIO,A45B,San Marino - Villacolombia,3
+1571,MIO,T57A,Nuevo Latir - Unidad Deportiva,3
+2211,MIO,P21A,Universidades - Av. Las Americas,3
+2212,MIO,P21B,Terminal Menga - Universidades,3
+2241,MIO,P24A,Terminal Menga- Terminal Andres Sanin,3
+2242,MIO,P24B,C.A.M. - Terminal Andres Sanin,3
+2273,MIO,P27C,Terminal Menga - Capri,3
+2274,MIO,P27D,Terminal Menga - Capri,3
+384,MIO,A84,LLano Verde - Santa Monica,3
+385,MIO,A85,Santa Monica - Terminal Andres Sanin,3
+386,MIO,A86,Morichal - Conquistadores,3
+3721,MIO,A72A,Jardines De La Aurora - T. Canaveralejo,3
+2523,MIO,P52C,El Vallado - T. Menga,3
+3722,MIO,A72B,El Cortijo - T. Canaveralejo,3
+306,MIO,A06,Aguacatal-San Bosco,3
+321,MIO,A21,Ciudadela Floralia - Terminal Menga,3
+3441,MIO,A44A,Manuela Beltran - Terminal Andres Sanin,3
+3442,MIO,A44B,Puertas Del sol - Terminal Andres Sanin,3
+370,MIO,A70,Mortinal - Tequendama,3
+324,MIO,A24,San Miguel - El Bosque - Vipasa,3
+305,MIO,A05,Las Americas-CAM - La Portada,3
+3131,MIO,A13A,Caney - Universidades,3
+3133,MIO,A13C,Lili - Universidades,3
+353,MIO,A53,Amanecer - Los Lagos -T. Andres Sanin,3
+377,MIO,A77,Ciudad 2000 - Refugio,3
+2401,MIO,P40A,Terminal Andres Sanin - Centro,3
+271,MIO,P71,Caney - Unidad Deportiva,3
+2104,MIO,P10D,Universidades - Centro,3
+336,MIO,A36,Guayacanes - Chiminangos,3
+217,MIO,P17,Icesi-Unidad Deportiva,3
+2121,MIO,P12A,Universidades-T. A Sanin-Centro Empresa,3
+3124,MIO,A12D,Altos De Santa Elena - Melendez,3
+371,MIO,A71,Los Chorros - Canaveralejo,3
+2141,MIO,P14A,Universidades - Terminal Andres Sanin,3
+311,MIO,A11,Icesi-PUJ-Universidades,3
+2473,MIO,P47C,T. Andres Sanin - Capri,3
+150,MIO,T50,Nuevo Latir - Centro,3
+3121,MIO,A12A,Altos De La Luisa-Estacion Melendez,3
+3122,MIO,A12B,Las Palmas - Estacion Melendez,3
+3191,MIO,A19A,Comfandi Pance - Universidades,3
+3192,MIO,A19B,La Buitrera - Estacion Buitrera,3
+142,MIO,T42,Pizamos - Centro - Terminal,3
+3351,MIO,A35A,Calimio Norte - Chiminangos,3
+3352,MIO,A35B,Jorge Eliecer Gaitan - Flora Industrial,3
+4272,MIO,E27B,Av Las Americas - Unidad Deportiva,3
+2524,MIO,P52D,Ciudad Cordoba - Centro - Terminal,3
+3372,MIO,A37B,Sena - Flora Industrial,3
+3141,MIO,A14A,USB - Universidades,3
+3142,MIO,A14B,La Voragine - Universidades,3
+3173,MIO,A17C,Comfenalco Lili - Universidades,3
+3371,MIO,A37A,Sena - Salomia,3
+427,MIO,E27,Terminal Menga - Capri,3

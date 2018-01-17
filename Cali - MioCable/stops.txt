@@ -1,0 +1,5 @@
+stop_id,stop_name,stop_lat,stop_lon,stop_timezone,stop_code
+MioCable-001,Brisas de Mayo,3.4174629,-76.5638759,America/Bogota,
+MioCable-002,Lleras Camargo,3.4215624,-76.5614075,America/Bogota,
+MioCable-003,Tierra Blanca,3.4198822,-76.5578602,America/Bogota,
+MioCable-004,Cañaveralejo,3.4153069,-76.5492442,America/Bogota,

@@ -1,0 +1,11 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+CLOTdT-CLO,6500,COP,0,0,0
+CLOTdT-PAL,2900,COP,0,0,0
+CLOTdT-TdT-Buga,8500,COP,0,0,0
+CLOTdT-TdT-Popayan,18000,COP,0,0,0
+CLOTdT-TdT-Tulua,11000,COP,0,0,0
+CLOTdT-TdT-Armenia,22000,COP,0,0,0
+CLOTdT-CAL,22000,COP,0,0,0
+TdT-Manizales-TdT-Pereira,10500,COP,0,0,0
+CLOTdT-PAL-Sevilla,19000,COP,0,0,0
+TdT-Manizales-BOG,58000,COP,0,0,0

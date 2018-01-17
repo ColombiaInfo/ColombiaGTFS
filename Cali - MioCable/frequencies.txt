@@ -1,0 +1,5 @@
+trip_id,start_time,end_time,headway_secs
+MioCable-001-A,05:00:00,22:59:00,300
+MioCable-001-B,05:00:00,22:59:00,300
+MioCable-002-A,05:00:00,22:59:00,300
+MioCable-002-B,05:00:00,22:59:00,300

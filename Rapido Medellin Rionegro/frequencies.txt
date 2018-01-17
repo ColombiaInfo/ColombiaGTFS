@@ -1,0 +1,9 @@
+trip_id,start_time,end_time,headway_secs
+RMR-RioNegro-TdT-Medellin-Norte-Van,04:00:00,22:00:00,360
+TdT-Medellin-Norte-RMR-RioNegro-Van,04:00:00,22:00:00,360
+RMR-RioNegro-TdT-Medellin-Norte-MicrosBus,04:20:00,22:00:00,600
+TdT-Medellin-Norte-RMR-RioNegro-MicrosBus,04:20:00,22:00:00,600
+RMR-RioNegro-TdT-Medellin-Norte-Bus,05:00:00,20:00:00,900
+TdT-Medellin-Norte-RMR-RioNegro-Bus,05:00:00,20:00:00,900
+RMR-RioNegro-TdT-Medellin-Sur-Bus,05:00:00,20:00:00,900
+TdT-Medellin-Sur-RMR-RioNegro-Bus,05:00:00,20:00:00,900

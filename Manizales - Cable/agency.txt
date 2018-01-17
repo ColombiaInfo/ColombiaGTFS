@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone
+CAdM,Cable Aéreo de Manizales,http://cableaereomanizales.gov.co/,America/Bogota

@@ -1,0 +1,3 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+MioCable-001,MioCable,,Lleras Camargo - Brisas de Mayo,,1302,,,
+MioCable-002,MioCable,,Cañaveralejo - Lleras Camargo,,1302,,,

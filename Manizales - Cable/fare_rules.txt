@@ -1,0 +1,4 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+1800,CAdM-001,,,
+1800,CAdM-002,,,
+1800,CAdM-003,,,

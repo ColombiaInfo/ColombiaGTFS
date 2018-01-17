@@ -1,0 +1,2 @@
+route_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,bikes_allowed,wheelchair_accessible,service_id
+ROUTE_cf993193-87e1-455f-a18f-9186b2063526,284d9193-0bef-47b4-9896-abc8b72c8587,,,1,,,0,0,1f946c30-854f-4128-a8cf-d662f8ae6b16

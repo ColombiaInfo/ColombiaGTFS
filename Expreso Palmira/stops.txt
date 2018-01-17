@@ -1,0 +1,17 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,stop_timezone
+TdT-Cali,,CALI,Terminal de transportes,3.4654466,-76.5211709,,http://www.terminalcali.com/,America/Bogota
+CLO-BUS,,Cali Aeropuerto,,3.536322,-76.387988,,,America/Bogota
+PAL-BUS,,Palmira Estación,,3.5276687,-76.3040057,,,America/Bogota
+TdT-Buga,,Buga,Terminal de transportes,3.8989707,-76.3126162,,,America/Bogota
+TdT-Popayan,,Popayan,Terminal de transportes,2.4506974,-76.6079407,,http://www.terminalpopayan.com/,America/Bogota
+TdT-Tulua,,Tulua,Terminal de transportes,4.085693,-76.2017072,,,America/Bogota
+TdT-Armenia,,Armenia,Terminal de Transportes de Armenia,4.5272243,-75.683361,,http://www.terminalarmenia.com/,America/Bogota
+TdT-Ibaque,,Ibaque,Terminal de Transporte,4.4368176,-75.2355066,,http://www.terminalibague.com/,America/Bogota
+TdT-Bogota-Sur,,Bogota - La Terminal del Sur,,4.597162,-74.176463,,http://www.terminaldetransporte.gov.co/,America/Bogota
+TdT-Bogota-Salitre,,Bogota - La Terminal Salitre,,4.654673244,-74.11486387,,http://www.terminaldetransporte.gov.co/,America/Bogota
+PAL-CALCEDONIA,,Calcedonia,Central park ??,4.3354701,-75.8285894,,,America/Bogota
+PAL-CARTAGO,,Cartago,Terminal de Transporte,4.753915,-75.899380,,,America/Bogota
+TdT-Pereira,,Pereira,Terminal de Transportes,4.8016146,-75.6932075,,http://www.terminalpereira.com,America/Bogota
+TdT-Manizales,,Manizales,Terminal de Transportes,5.0492026,-75.5084002,,http://www.terminaldemanizales.com.co/,America/Bogota
+PAL-Sevilla,,Sevilla,Carrera 48 53-01 ,4.2663824,-75.9324471,,,America/Bogota
+TdT-Medellin-Sur,,Medellin,Terminal del Sur,6.216341231,-75.58712571,,http://www.terminaldelsur.com/,America/Bogota

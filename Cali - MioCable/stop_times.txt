@@ -1,0 +1,11 @@
+trip_id,arrival_time,departure_time,stop_id,stop_sequence,stop_headsign,pickup_type,drop_off_type,shape_dist_traveled
+MioCable-002-A,05:00:00,05:00:00,MioCable-004,0,,,,
+MioCable-002-A,05:04:00,05:04:00,MioCable-003,1,,,,
+MioCable-002-A,05:08:00,05:08:00,MioCable-002,2,,,,
+MioCable-002-B,05:00:00,05:00:00,MioCable-002,0,,,,
+MioCable-002-B,05:04:00,05:04:00,MioCable-003,1,,,,
+MioCable-002-B,05:08:00,05:08:00,MioCable-004,2,,,,
+MioCable-001-A,05:00:00,05:00:00,MioCable-002,0,,,,
+MioCable-001-A,05:02:00,05:02:00,MioCable-001,1,,,,
+MioCable-001-B,05:00:00,05:00:00,MioCable-001,0,,,,
+MioCable-001-B,05:02:00,05:02:00,MioCable-002,1,,,,

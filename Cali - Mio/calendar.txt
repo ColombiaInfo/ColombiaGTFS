@@ -1,0 +1,4 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+3052024,1,1,1,1,1,0,0,20140908,20181231
+3052026,0,0,0,0,0,0,1,20140908,20181231
+3052027,0,0,0,0,0,1,0,20140908,20181231

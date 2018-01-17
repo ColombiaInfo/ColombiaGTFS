@@ -1,0 +1,526 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,stop_url,location_type,parent_station,wheelchair_boarding
+20675,,Carrera 41 No. 44 - 60,10.981342,-74.786233,,0,,
+20050,,Carrera 40 No. 43 - 07,10.980727,-74.784815,,0,,
+20051,,Carrera 40 No. 40 - 37,10.980393,-74.78266,,0,,
+20561,,Carrera 40 No. 38 - 25,10.980025,-74.781447,,0,,
+20562,,Carrera 40 No. 36 - 25,10.97969,-74.780415,,0,,
+20563,,Carrera 40 No. 35 - 25,10.979358,-74.779583,,0,,
+20564,,Carrera 43 No. 35 - 38,10.981448,-74.779293,,0,,
+20565,,Carrera 43 No. 36 - 30,10.98163,-74.78013,,0,,
+10108,,Carrera 43 No. 39 - 26,10.98196,-74.781695,,0,,
+10109,,Carrera 43 No. 43 - 16,10.982552,-74.784433,,0,,
+20527,,Centro Comercial Panorama,10.944842,-74.784343,,0,,
+20528,,Carrera 6B con Calle 31 Nacional de Chocolate,10.94294,-74.785247,,0,,
+20529,,Carrera 6B No. 33 - 76,10.942972,-74.786828,,0,,
+11208,,Carrera 6B Con Calle 34C Esq,10.942427,-74.788677,,0,,
+20530,,Carrera 6B Con Calle 36B,10.942057,-74.791518,,0,,
+20531,,Carrera 6B No. 38B - 02,10.941757,-74.793893,,0,,
+11211,,Calle 41 No. 6B - 32,10.94187,-74.795853,,0,,
+11212,,Calle 41 No. 7D - 04,10.943802,-74.79617,,0,,
+11213,,Carrera 8 No. 40 - 32,10.946245,-74.795742,,0,,
+11214,,Carrera 8 con Calle 42B Esq,10.946242,-74.797833,,0,,
+20676,,Carrera 8 No. 44 - 34,10.94623,-74.799237,,0,,
+11202,,Carrera 8 No. 42 - 127,10.946107,-74.798475,,0,,
+11203,,Carrera 8 Con Calle 41 Esq,10.946113,-74.795858,,0,,
+11204,,Carrera 8 No. 36B - 125,10.945887,-74.793093,,0,,
+11205,,Carrera 8 Con Calle 35A Esq,10.94619,-74.790928,,0,,
+20525,,Carrera 8 Con Calle 34,10.946428,-74.788717,,0,,
+20526,,Carrera 8 Con Calle 31,10.94677,-74.785825,,0,,
+11319,,Carrera 1H Con Calle 45 Esq,10.932732,-74.798927,,0,,
+11301,,Carrera 2E No. 44B - 13,10.934835,-74.798927,,0,,
+11302,,Carrera 2B No. 42A - 05,10.934503,-74.797133,,0,,
+11303,,Carrera 2 Con Calle 39 Esq,10.934873,-74.794397,,0,,
+11304,,Carrera 2 Calle 37E - 23,10.934828,-74.792567,,0,,
+11315,,Calle 37C Carrera 2,10.93562,-74.790987,,0,,
+11306,,Calle 37C Con Carrera 3A,10.937258,-74.791567,,0,,
+20572,,Calle 37C No. 3D - 04,10.938568,-74.791708,,0,,
+11307,,Carrera 4 Con Calle 36 Esq,10.938947,-74.790488,,0,,
+11308,,Carrera 4 Con Calle 34B Esq,10.939295,-74.788622,,0,,
+11320,,Carrera 4 Con Calle 31-88,10.939613,-74.786048,,0,,
+11310,,Carrera 4 Con Calle 30,10.939838,-74.783297,,0,,
+11311,,Carrera 2 Con Calle 30,10.937722,-74.782895,,0,,
+11312,,Carrera 2 Con Calle 33A Esq,10.936585,-74.78478,,0,,
+11313,,Carrera 2 Con Calle 34 Esq,10.935955,-74.786967,,0,,
+11314,,Carrera 2 Con Calle 35A Esq,10.935437,-74.789325,,0,,
+11305,,Calle 37C Con Carrera 2 Esq,10.934685,-74.791298,,0,,
+11316,,Calle 37C Con Carrera 1H Esq,10.932828,-74.791708,,0,,
+20573,,Carrera 1H Con Calle 37F Esq,10.933207,-74.793172,,0,,
+11317,,Carrera 1H Con Calle 41B Esq,10.933708,-74.79478,,0,,
+11318,,Carrera 1H No. 41B - 236,10.933242,-74.796837,,0,,
+16616,,Carrera 1E Con Calle 45 Metrocentro,10.931807,-74.799743,,0,,
+16601,,Tv 14 sur Con Calle 45,10.93025,-74.799877,,0,,
+2102,,Calle 45D Frente Nom 1 - 101,10.931347,-74.800533,,0,,
+2103,,Carrera 1E Frente Bloque 159,10.931865,-74.802072,,0,,
+2104,,Avenida las Torres Frente Nom. 45H - 42,10.930277,-74.802065,,0,,
+2107,,Avenida las Torres Calle 44B,10.929922,-74.798772,,0,,
+2105,,Avenida las Torres Nom. 41C - 93,10.929695,-74.796522,,0,,
+2106,,Avenida las Torres Nom. 56A - 93,10.929483,-74.79439,,0,,
+2108,,Avenida las Torres con Calle 54 D,10.929482,-74.791593,,0,,
+2109,,Avenida las Torres Nom. 48 - 25,10.930147,-74.78906,,0,,
+2110,,Avenida las Torres Nom 44 - 33,10.930925,-74.78645,,0,,
+20577,,Avenida Circunvalar oreja del puente,10.932307,-74.782143,,0,,
+20578,,Carrera 39 C No. 18H - 17,10.937393,-74.779025,,0,,
+20579,,Carrera 39C  Con Calle 32,10.936543,-74.77692,,0,,
+20580,,Carrera 39C No. 28 - 109,10.9359,-74.775368,,0,,
+20581,,Carrera 39C No. 27C - 13,10.935152,-74.773565,,0,,
+20582,,Calle 27C Con Carrera 39,10.933992,-74.772872,,0,,
+20583,,Calle 27C Con Carrera 25,10.931608,-74.773322,,0,,
+20584,,Calle 27C Con Carrera 23 Esq.,10.929158,-74.773778,,0,,
+2115,,Carrera 30 Con Calle 27,10.927622,-74.772903,,0,,
+2116,,Carrera 30 Nom 24 - 151,10.926817,-74.76981,,0,,
+20456,,Calle 24 con Carrera 31,10.926987,-74.768267,,0,,
+20389,,Calle 24 Con Carrera 33A Esq,10.928907,-74.767977,,0,,
+20390,,Carrera 35 Con Calle 25B Esq,10.92987,-74.770465,,0,,
+20391,,Calle 26 Con Carrera 38 Esq,10.93266,-74.770463,,0,,
+20392,,Carrera 39 Con Calle 24A Esq Col. Sagrado Corazon,10.934168,-74.768603,,0,,
+20586,,Carrera 39 Con Calle 21B,10.934385,-74.766965,,0,,
+20393,,Entrada conjunto residencial los Mangos,10.934167,-74.765282,,0,,
+20394,,Calle 18 Con Carrera 36 A Esq,10.931152,-74.764512,,0,,
+20395,,Calle 18 No. 32 - 59,10.92868,-74.76435,,0,,
+20457,,Calle 18 Con Carrera 30,10.926713,-74.764153,,0,,
+2119,,Calle 18 Con Carrera 27,10.924445,-74.763768,,0,,
+2120,,Calle 18 No. 25A - 16,10.92153,-74.763537,,0,,
+2121,,Calle 18 No. 23 - 37,10.919673,-74.764115,,0,,
+2122,,Calle 18 No. 21 - 37,10.917542,-74.765113,,0,,
+2123,,Carrera 19 Frente Nom. 20 - 19,10.916582,-74.7671,,0,,
+2124,,Calle 23 Con Carrera 19A Esq.,10.917762,-74.768873,,0,,
+2125,,Calle 23 No. 22 - 36,10.920545,-74.768107,,0,,
+2126,,Calle 23 No. 25 - 40,10.922783,-74.767398,,0,,
+2127,,Carrera 26 No. 24A - 32,10.923965,-74.768765,,0,,
+2145,,Carrera 30 Con Calle 25,10.926667,-74.768853,,0,,
+2128,,Carrera 30 Con Calle 27 Esq.,10.927552,-74.772697,,0,,
+2129,,Carrera 30 Con 29C  Esq.,10.927883,-74.775767,,0,,
+2130,,Carrera 30 Con Calle 30,10.92744,-74.77775,,0,,
+2131,,Calle 30 Entrada al Tucan,10.930023,-74.779742,,0,,
+2132,,Calle 30 INEM,10.93168,-74.78023,,0,,
+20585,,Calle 19 Con Carrera 1E,10.936397,-74.780392,,0,,
+2133,,Avenida las Torres Circunvalar Iglesia,10.931798,-74.784507,,0,,
+2134,,Av. Las Torres  Colegio Olga Castellano de Levolo,10.930985,-74.787303,,0,,
+2135,,Avenida las Torres Calle 54,10.929845,-74.790683,,0,,
+2136,,Avenida las Torres  56A - 12,10.929528,-74.793657,,0,,
+2137,,Avenida las Torres 41C - 92,10.929863,-74.796545,,0,,
+2138,,Avenida las Torres 43 - 76,10.930047,-74.798235,,0,,
+2139,,Avenida Las Torres Calle 45,10.930197,-74.799847,,0,,
+16602,,Tv 14 sur Con Calle 45H,10.93041,-74.801802,,0,,
+2141,,Carrera 1E No. 45H - 41,10.93184,-74.801897,,0,,
+17516,,Carrera 24 Con Calle 63,10.921272,-74.798632,,0,,
+20650,,Carrera 24 Con Calle 59,10.92152,-74.796022,,0,,
+20651,,Carrera 24 Con Calle 57D,10.921237,-74.794565,,0,,
+20652,,Carrera 24 Con Calle 55B,10.920945,-74.793112,,0,,
+20653,,Carrera 24 Con Calle 54 Soledad,10.921297,-74.791322,,0,,
+20654,,Carrera 24 Con Calle 48,10.92143,-74.789708,,0,,
+20655,,Carrera 24 Con Calle 45A1 - 03,10.921263,-74.788557,,0,,
+20680,,Calle 45 Con Carrera 25 Esq.,10.922547,-74.787095,,0,,
+20681,,Calle 45 Con Carrera 26A,10.923683,-74.7863,,0,,
+20682,,Calle 43 Con Carrera 31,10.925265,-74.784267,,0,,
+20683,,Calle 43 Con Carrera 37 lado oriental,10.927214,-74.784229,,0,,
+20684,,Calle 43 Con Carrera 37 lado occidental,10.927029,-74.784264,,0,,
+20685,,Calle 43 Con Carrera 32,10.925545,-74.784264,,0,,
+20656,,Calle 45 Carrera 25B - 70,10.922297,-74.787265,,0,,
+20666,,Calle 45 con Carrera 24B Esq,10.921752,-74.78763,,0,,
+20657,,Carrera 24 Calle 45A - 20,10.921298,-74.78853,,0,,
+20658,,Carrera 24 Calle 44 Norte,10.921452,-74.789715,,0,,
+20659,,Carrera 24 Calle 53 Esq Soledad,10.92151,-74.790858,,0,,
+20660,,Carrera 24 Calle 54C,10.921133,-74.79225,,0,,
+20464,,Carrera 24 Con Calle 56,10.920841,-74.793446,,0,,
+20661,,Calle 56 Carrera 22C,10.919863,-74.793343,,0,,
+20662,,Calle 56 Carrera 20 Soledad,10.918265,-74.793335,,0,,
+20663,,Carrera 18 Calle 56 - 46,10.917155,-74.79393,,0,,
+20664,,Carrera 18 No 59 - 18,10.917143,-74.796177,,0,,
+20665,,Carrera 18 No. 62 - 10,10.917132,-74.798233,,0,,
+20300,,Portal de Soledad,10.907516,-74.800479,,1,,1
+20002,,Carrera 14 Con Calle 63 Olimpica,10.909228,-74.798492,,0,,
+20003,,Carrera 14 Con Calle 59 Entrada Barrio Nuevo Milen,10.908877,-74.795947,,0,,
+20387,,Terminal de Transportes,10.908912,-74.793808,,0,,
+20005,,Calle 54 Con Carrera 13B El Gran Percal,10.906455,-74.791893,,0,,
+20006,,Calle 54 Con Carrera 11B,10.905077,-74.791623,,0,,
+20007,,Carrera 11 Con Calle 52 Siete Bocas,10.905058,-74.789035,,0,,
+20008,,Carrera 11 Con Calle 49 Iglesia Testigos de Jehova,10.905652,-74.78593,,0,,
+20643,,Carrera 11 Con Calle 46,10.906155,-74.783343,,0,,
+20200,,Carrera 11 Calle 44A Esq. Col. Club de Leones,10.906417,-74.781622,,0,,
+20020,,Calle 43 Con Carrera 13,10.908305,-74.780645,,0,,
+20540,,Calle 40 No 14 - 68,10.910237,-74.779402,,0,,
+20541,,Carrera 15B Con Calle 43C Esq,10.911695,-74.780897,,0,,
+20542,,Carrera 15B Con Cale 44D Esq,10.912152,-74.782268,,0,,
+20543,,Diagonal 43 Frente Nom. 14 - 122,10.910502,-74.781493,,0,,
+20544,,Diagonal 43 no. 14 -29,10.909697,-74.780937,,0,,
+20021,,Carrera 14 Con Calle 43B,10.909352,-74.781268,,0,,
+11118,,Carrera 14 Con Calle 47,10.908438,-74.784507,,0,,
+20644,,Carrera 14 No. 47A - 100 Doña Soledad,10.908482,-74.78601,,0,,
+20645,,Carrera 14 Con Calle 50 Esq,10.908898,-74.787952,,0,,
+20646,,Carrera 14 Con Calle 52 Esq,10.908058,-74.789332,,0,,
+20700,,Calle 54 Con Carrera 14 Frente Gimnasio,10.906856,-74.791828,,0,,
+20026,,Calle 54 No. 14 - 110,10.910017,-74.792017,,0,,
+20027,,Carrera 15 Con Calle 54 Sisben Soledad,10.910387,-74.792935,,0,,
+20028,,Carrera 15 Con Calle 59 Entrada Barrio Pta De Oro,10.910698,-74.79516,,0,,
+20029,,Carrera 15 Con Calle 63 Villa Linda,10.911055,-74.797862,,0,,
+20545,,Calle 54 No. 8A - 03,10.901935,-74.790852,,0,,
+20546,,Carrera 8 No. 52A - 15,10.901947,-74.789347,,0,,
+20547,,Carrera 7A No. 50C - 21,10.901785,-74.787425,,0,,
+20554,,Calle 48 No. 6E - 22,10.9017,-74.785527,,0,,
+20549,,Carrera 6C No. 47 - 51,10.90106,-74.783673,,0,,
+20550,,Calle 47 No. 5B - 69,10.899877,-74.782968,,0,,
+20205,,Calle 37 Con Carrera 5B Esq.,10.899127,-74.781407,,0,,
+20486,,Calle 37 Con Carrera 5B Norte,10.899122,-74.781707,,0,,
+20551,,Calle 47 No. 5B - 16,10.899358,-74.782847,,0,,
+20552,,Calle 47 No. 6A - 22,10.900828,-74.783167,,0,,
+20553,,Carrera 5 No. 47C - 08,10.90098,-74.784192,,0,,
+20555,,Carrera 7A No. 50 B 11,10.901863,-74.787075,,0,,
+20556,,Carrera 8 No. 53 A Esq. Hospital Materno Infantil,10.90196,-74.789625,,0,,
+20557,,Calle 54 No. 8B - 16,10.902397,-74.79088,,0,,
+20558,,Calle 54 No. 11 - 18,10.904798,-74.791417,,0,,
+20100,,Calle 65 Con Carrera 12 Ciudad Transmetro,10.904125,-74.802113,,0,,
+20101,,Calle 65 Con Carrera 8 Esq. Los Loteros,10.901335,-74.802702,,0,,
+20102,,Entrada Ciudad Camelot,10.899415,-74.803115,,0,,
+20103,,Entrada Barrio Candelaria,10.895393,-74.803785,,0,,
+20104,,Calle 63 Con Carrera 5 Ent. 1 La Central,10.891485,-74.80419,,0,,
+20522,,Entrada Granabastos,10.887832,-74.803852,,0,,
+20475,,Las Cometas Sur,10.890973,-74.799828,,0,,
+20476,,Entrada Nuevo Colegio Granabastos,10.892458,-74.797293,,0,,
+20477,,Villa Maria 1ra Etapa Sur,10.89324,-74.795803,,0,,
+20478,,Villa Maria 2da Etapa Sur,10.894047,-74.794525,,0,,
+20533,,Calle 57 Con Carrera 3 Las Cuatro Villas,10.89342,-74.793272,,0,,
+20534,,Carrera 3 No. 56C - 21,10.892867,-74.792117,,0,,
+20535,,Carrera 3 No. 54C - 03,10.892803,-74.790272,,0,,
+20536,,Calle 54B Trv 2D10 - 19,10.891348,-74.789497,,0,,
+20537,,Calle 54B Con Carrera 2F,10.891917,-74.7896,,0,,
+20538,,Carrera 3 No. 55 - 16,10.892782,-74.79065,,0,,
+20539,,Carrera 3 No. 56 - 142,10.892948,-74.792595,,0,,
+20479,,Villa Carla Sur,10.895408,-74.792565,,0,,
+20490,,Villa Carla Norte,10.895937,-74.791992,,0,,
+20491,,Villa Maria 2da Etapa Norte,10.894315,-74.794233,,0,,
+20492,,Villa Maria 1ra Etapa Norte,10.893168,-74.79599,,0,,
+20493,,Nuevo Colegio Granabastos Norte,10.89253,-74.797202,,0,,
+20494,,Las Comentas Norte,10.890955,-74.799928,,0,,
+20114,,Entrada Villa Sol,10.889405,-74.803507,,0,,
+20115,,Entrada Las Cometas,10.891925,-74.804013,,0,,
+20117,,Entrada Barrio Villa Carmen,10.8988,-74.803067,,0,,
+20118,,Calle 65 Con Carrera 8 Esq. Los Loteros 2,10.900938,-74.802592,,0,,
+20119,,Entrada Barrio Manantial,10.904042,-74.801957,,0,,
+20695,,Calle 52 con Carrera 10C1 Esq.,10.904732,-74.78935,,0,,
+20177,,Carrera 15 Sur No. 47C - 39,10.922763,-74.806577,,0,,
+20178,,Carrera 15 Sur Con Calle 46H,10.922855,-74.804867,,0,,
+20179,,Av. Circunvalar 67B Puente Peat. Velodromo,10.923185,-74.801615,,0,,
+20415,,Carrera 5 No. 66 - 78,10.891428,-74.806073,,0,,
+20416,,Carrera 5 No. 68 B Esq,10.891388,-74.808235,,0,,
+20417,,Calle 69 Con Carrera 4,10.889648,-74.808703,,0,,
+20418,,Carrera 4 Con Calle 71A,10.88937,-74.810643,,0,,
+20670,,Diagonal 71 Sur Con Transversal 1A4 Occid,10.888093,-74.812008,,0,,
+20671,,Diagonal 71 Sur Con Transversal 1B Sur Occid,10.886892,-74.81279,,0,,
+20672,,Transversal 2 Sur Con Diagonal 72 Esq,10.886447,-74.814633,,0,,
+20673,,Diagonal 71 Sur Con Transversal 1 B Sur Orient,10.88687,-74.812773,,0,,
+20674,,Diagonal 71 Sur Con Transversal 1A4 Oriental,10.888243,-74.81185,,0,,
+20639,,Carrera 4 Con Calle 71,10.889353,-74.810478,,0,,
+20420,,Carrera 4 Con Calle 69A,10.889343,-74.808878,,0,,
+20421,,Carrera 5 Con Calle 69 Esq,10.891352,-74.808445,,0,,
+20422,,Carrera 5 Con Calle 66A,10.891378,-74.806367,,0,,
+103,,Joaquín Barrios Polo,10.932747,-74.799234,,1,,1
+16603,,Carrera 6 Sur Con Calle 46F Esq,10.93014,-74.803898,,0,,
+16604,,Carrera 6 Sur Con Calle 47 Esq,10.929058,-74.805548,,0,,
+16605,,Carrera 6 Sur Con Cll47B,10.927633,-74.807463,,0,,
+16606,,Carrera 6 Sur con Calle 48F,10.926347,-74.810113,,0,,
+11350,,Calle 49 Con Carrera 8B Sur Cayenas,10.924822,-74.811538,,0,,
+11351,,Calle 49 Con Carrera 12 Sur,10.923305,-74.812088,,0,,
+11352,,Av.Circunvalar Con Calle 51B,10.922777,-74.814132,,0,,
+11353,,Calle 51B Con Carrera 10 Sur,10.925147,-74.81477,,0,,
+11354,,Carrera 10 Sur Con Calle 50A,10.924185,-74.812707,,0,,
+11355,,PASO Cayenas frente Nom. 8B Sur - 24,10.924512,-74.811633,,0,,
+16607,,Calle 49 Con Carrera 5B Sur,10.927535,-74.810925,,0,,
+16608,,Calle 49 Con Carrera 3 Sur,10.929263,-74.810445,,0,,
+16609,,Carrera 1 Con Calle 48C,10.93091,-74.809012,,0,,
+16610,,Carrera 1 No. 47B - 03,10.930875,-74.807262,,0,,
+16611,,Calle 47 No. 3A Sur - 18,10.929378,-74.805965,,0,,
+2140,,Calle 47 Con Carrera 6D Sur,10.928177,-74.805123,,0,,
+16613,,Carrera 7 Sur No. 46 - 29,10.927993,-74.803052,,0,,
+16614,,Calle 46 Con Carrera 1 Sur Esq,10.930078,-74.802598,,0,,
+20453,,Carrera 2D Con Calle 47,10.93293,-74.803165,,0,,
+20454,,Calle 47 Con Carrera 2G,10.93446,-74.80134,,0,,
+206,,Joe Arroyo,10.995042,-74.807589,,1,,1
+20251,,Calle 76 No. 43B - 05,10.994847,-74.811178,,0,,
+20511,,Carrera 43 Con Calle 76 Seminario,10.994982,-74.812923,,0,,
+20400,,Carrera 43 No. 79 - 212 Ferreteria Sander,10.996353,-74.815472,,0,,
+20513,,Carrera 43 No. 80 - 182 Home Club,10.997342,-74.817303,,0,,
+20518,,Carrera 43 No. 82 - 178 Ferreteria Don Kike,10.998343,-74.819477,,0,,
+20402,,Carrera 43 No. 84 - 154 Narcobollo,10.998865,-74.821442,,0,,
+20515,,Carrera 43 No. 87 - 40,11.000108,-74.824375,,0,,
+20516,,Carrera 43 No. 90 - 128,11.001153,-74.826645,,0,,
+17123,,Calle 93 Con Carrera 42F,11.000185,-74.829543,,0,,
+17124,,Calle 93 Con Carrera 42C,10.997755,-74.830443,,0,,
+17125,,Calle 96 Con Calle 96A,10.999927,-74.83129,,0,,
+17126,,Calle 97 Con Carrera 42G1,11.001248,-74.832198,,0,,
+17127,,Calle 98 Con Carrera 42G2,11.002163,-74.833437,,0,,
+17109,,Carrera 43 No. 98-86,11.003392,-74.833915,,0,,
+20640,,Conjunto Residencial Parque 100,11.000593,-74.837017,,0,,
+20641,,Calle 99C No. 43 - 150 Tarragona,11.003703,-74.836297,,0,,
+17128,,Carrera 42G1 Con Calle 100,11.005243,-74.835023,,0,,
+17129,,Calle 100 Con Carrera 44,11.006995,-74.834242,,0,,
+20397,,Carrera 46 No 94 - 11,11.005008,-74.82777,,0,,
+17105,,Carrera 46 Con Calle 90 Uniautonoma,11.00344,-74.824065,,0,,
+17117,,Carrera 46 No. 85-163,11.002598,-74.822492,,0,,
+17118,,Carrera 46 No. 82-205,11.001358,-74.818477,,0,,
+17119,,Carrera 46 No. 80-211,11.00018,-74.816023,,0,,
+17120,,Carrera 46 No. 79-175,10.998798,-74.8136,,0,,
+17121,,Carrera 46 No. 76-109,10.997237,-74.810953,,0,,
+20252,,Calle 76 No. 42B Esq Uni. Metropolitana,10.993117,-74.813703,,0,,
+20253,,Calle 76 No. 38D - 63 Acolsure,10.989677,-74.814318,,0,,
+20254,,Calle 76 No. 38A - 53 Diag. Col. Betania Norte,10.987803,-74.815632,,0,,
+20255,,Carrera 38 No. 76 - 106,10.9869,-74.81724,,0,,
+20256,,Calle 79A No. 35C - 43,10.985725,-74.818157,,0,,
+20257,,Calle 79A Con Cra 33 Fren. Nom. 33 - 30,10.983492,-74.817963,,0,,
+20258,,Calle 79A No. 27 Esq,10.981268,-74.818585,,0,,
+20259,,Carrea 26C7 No. 75 - 77,10.979563,-74.816695,,0,,
+20260,,Calle 74B No. 26C Frente Nom. 26C7 - 47,10.978732,-74.814478,,0,,
+20261,,Carrera 27 No. 72 Frente Nom 72 - 04,10.977868,-74.811927,,0,,
+20262,,Carrera 27 No 68 - 149 Fren. Colegio Olaya,10.976935,-74.808147,,0,,
+20263,,Carrera 27 No. 64 Esq,10.975983,-74.805577,,0,,
+20264,,Carrera 27 Con Calle 63 Esq,10.975587,-74.803722,,0,,
+20265,,Calle 61 No. 25 - 113,10.973987,-74.803347,,0,,
+20266,,Carrera 24 No. 59 - 45,10.971383,-74.802755,,0,,
+20267,,Carrera 24 No. 54 Esq Seguro de los Andes,10.971312,-74.800838,,0,,
+20268,,Carrera 24 No. 53D-29,10.971158,-74.798937,,0,,
+20269,,Carrera 24 Con Calle 53 Esq,10.969612,-74.797022,,0,,
+20270,,Carrera 24 No. 48-03,10.968147,-74.794592,,0,,
+20271,,Carrera 26 No. 47C-01,10.968725,-74.793432,,0,,
+20458,,Carrera 27 Con Calle 45 Exito,10.96973,-74.790445,,0,,
+20459,,Carrera 26 Con Calle 47C,10.968803,-74.793522,,0,,
+20222,,Calle 48 No. 23 - 29,10.967455,-74.794725,,0,,
+20223,,Carrera 23 No. 52 - 32,10.968305,-74.796838,,0,,
+20224,,Carrera 23 Con Calle 53D Esq,10.969852,-74.79902,,0,,
+20225,,Carrera 21B Con Calle 53D Esq,10.96836,-74.800675,,0,,
+20226,,Carrera 21B No. 60 - 28,10.968588,-74.803558,,0,,
+20227,,Carrera 21B No. 64 - 26,10.968683,-74.806353,,0,,
+20228,,Carrera 21B Con Calle 65B Esq,10.968805,-74.808722,,0,,
+20229,,Carrera 21B No. 68C - 14,10.968897,-74.811058,,0,,
+20230,,Calle 70C Con Carrera 22D Esq,10.97084,-74.810918,,0,,
+20231,,Calle 70C Con Carrera 24C Esq,10.97373,-74.81023,,0,,
+20232,,Calle 70C No. 26B - 44,10.976285,-74.80979,,0,,
+20240,,Carrera 27 No. 72 - 10,10.97793,-74.811912,,0,,
+20241,,Calle 74B No. 26C7 - 29,10.978673,-74.814658,,0,,
+20242,,Carrera 26C7 No. 75B - 68,10.979957,-74.817132,,0,,
+20243,,Calle 79A Con Carrera 28 Esq,10.981678,-74.818478,,0,,
+20244,,Calle 79A No. 34 - 22,10.983975,-74.817752,,0,,
+20245,,Calle 79A No. 35D - 50,10.986227,-74.818177,,0,,
+20246,,Calle 76 Con Carrera 38A Esq,10.98725,-74.815938,,0,,
+20247,,Calle 76 Con Carrera 39 Acolsure,10.990147,-74.814012,,0,,
+20248,,Calle 76 No. 42 - 78 Uni. Metropolitana,10.993075,-74.813575,,0,,
+20249,,Calle 79 No. 42F - 94,10.994873,-74.813843,,0,,
+20250,,Calle 79 Con Carrera 45 Esq,10.997167,-74.81255,,0,,
+17101,,Carrera 46 No. 76 - 68,10.99712,-74.81069,,0,,
+17102,,Carrera 46 No. 79 - 204,10.998975,-74.813827,,0,,
+17103,,Carrera 46 No. 81 - 102,11.000343,-74.816172,,0,,
+8447,,Calle 84 No. 47 - 54,11.00277,-74.818557,,0,,
+20380,,Calle 84 No. 51 - 32 Macmondongo,11.005383,-74.817308,,0,,
+8452,,Calle 84  No. 52 - 76,11.00711,-74.816629,,0,,
+8455,,Calle 84 No. 55 - 82,11.00856,-74.814133,,0,,
+8459,,Calle 84 No. 59 - 40,11.011007,-74.81163,,0,,
+6584,,Carrera 65 No 84 - 52,11.013717,-74.810343,,0,,
+6585,,Carrera 65 Calle 85 Conj. Villa Andalucia,11.015947,-74.811937,,0,,
+20381,,Calle 86 Con Carrera 70 Villa Andalucia Ent. 2,11.017378,-74.812315,,0,,
+20568,,Calle 86 Con Carrera 73 Esq,11.018875,-74.810955,,0,,
+8673,,Calle 86 No. 73 - 218,11.020403,-74.809663,,0,,
+8675,,Calle 86 No. 75C - 146,11.021702,-74.807692,,0,,
+20382,,Calle 85 Con Carrera 78A Esq.,11.023615,-74.806923,,0,,
+8579,,Calle 85 No. 78D - 26,11.024627,-74.805728,,0,,
+20569,,Calle 85 No. 81 - 32,11.026025,-74.804157,,0,,
+4080,,Via 40 No. 83 - 53,11.025298,-74.802958,,0,,
+20383,,Via 40 Con Calle 80,11.023185,-74.800988,,0,,
+8078,,Calle 80 No. 78 - 19,11.02025,-74.803633,,0,,
+8075,,Calle 80 No. 75 - 25,11.01863,-74.804693,,0,,
+8072,,Calle 80 No. 72 - 43 Esq.,11.016795,-74.805148,,0,,
+20384,,Calle 80  Con Carrear 69 Esq.,11.014148,-74.80583,,0,,
+20570,,Calle 80 No. 65 - 45,11.01224,-74.806352,,0,,
+6480,,Carrera 64 No. 80 - 90,11.01145,-74.807532,,0,,
+8259,,Calle 82 Con Carrera 59B Esq.,11.011138,-74.810875,,0,,
+20385,,Calle 82 Con Carrera 56 Esq.,11.00812,-74.811997,,0,,
+8252,,Calle 82 No. 52 - 61,11.005705,-74.813603,,0,,
+8251,,Calle 82 Con Carrera 51 Esq.,11.004838,-74.814117,,0,,
+8246,,Calle 82 Con Carrera 47 Esq.,11.00098,-74.816577,,0,,
+4680,,Carrera 46 No 80 - 211,11.000155,-74.816007,,0,,
+4676,,Carrera 46 No 76 - 109,10.997287,-74.810998,,0,,
+18202,,Calle 79 No. 47 - 10,10.99878,-74.811612,,0,,
+7951,,Calle 79 No. 51 - 62,11.002337,-74.809367,,0,,
+7953,,Calle 79 No. 53 - 54,11.004785,-74.807912,,0,,
+18205,,Calle 79 No. 55 - 154,11.006527,-74.80679,,0,,
+18206,,Calle 79 No. 57 - 190,11.008503,-74.805203,,0,,
+18207,,Carrera 60 Con Calle 77B,11.008373,-74.80206,,0,,
+18208,,Calle 77 No. 62 - 40,11.008762,-74.800668,,0,,
+18209,,Calle 77 Con Carrera 68,11.011585,-74.798637,,0,,
+18210,,Calle 77 Con Carrera 71,11.012723,-74.797825,,0,,
+18211,,Calle 77 Con Vía 40,11.015658,-74.79568,,0,,
+18212,,Calle 76 Con Vía 40,11.014287,-74.794432,,0,,
+18213,,Calle 76 Con Carrera 72,11.012275,-74.795943,,0,,
+7668,,Calle 76 Con Carrera 68 Zoologico,11.010262,-74.797417,,0,,
+18215,,Calle 76 Con Carrera 60,11.007005,-74.799925,,0,,
+18216,,Calle 76 Con Carrera 57,11.005315,-74.80228,,0,,
+18311,,Calle 76 Con Carrera 55,11.004092,-74.803937,,0,,
+18217,,Calle 76 Con Carrera 53,11.002982,-74.805475,,0,,
+18218,,Calle 76 No. 50 - 13,11.000677,-74.808055,,0,,
+19166,,Calle 76 Con Carrera 49B,10.999515,-74.808557,,0,,
+18219,,Calle 76 No. 47 - 57,10.997883,-74.809325,,0,,
+201,,Parque Cultural del Caribe,10.985848,-74.777867,,1,,1
+202,,Barrio Abajo,10.986909,-74.78352,,1,,1
+203,,La Catedral,10.988532,-74.789154,,1,,1
+18303,,Calle 53 Con Carrera 52,10.991605,-74.789192,,0,,
+18304,,Carrera 54 Con Calle 54,10.992878,-74.790672,,0,,
+18305,,Carrera 54 No. 58 -78,10.993478,-74.79223,,0,,
+18306,,Carrera 54 No. 59 - 144,10.995495,-74.79417,,0,,
+18307,,Carrera 58 No. 64 - 162,10.997355,-74.795488,,0,,
+18308,,Carrera 58 No. 70 - 66,11.000753,-74.798018,,0,,
+18309,,Carrera 58 No. 74 - 138,11.003948,-74.800405,,0,,
+18312,,Carrera 54 No. 75 - 119,11.002838,-74.804682,,0,,
+18313,,Carrera 54 No. 72 - 73,10.999658,-74.802185,,0,,
+18314,,Carrera 54 No. 68 - 189,10.997763,-74.799103,,0,,
+18315,,Carrera 54 Con Calle 64,10.995947,-74.795302,,0,,
+18316,,Carrera 54 No. 55 - 147,10.99349,-74.792297,,0,,
+18317,,Calle 54 Con Carrera 53,10.992122,-74.790332,,0,,
+19101,,Calle 74 No. 49B - 40,10.99855,-74.805238,,0,,
+9157,,Carrera 54 Con Calle 74,11.000818,-74.803025,,0,,
+9156,,Carrera 54 No. 75 - 56,11.002463,-74.80423,,0,,
+19104,,Carrera 53 Con Calle 78 Villa Country,11.003743,-74.806597,,0,,
+19105,,Carrera 53 Con Calle 80,11.005328,-74.810978,,0,,
+19106,,Carrera 53 Con Calle 82,11.006475,-74.814095,,0,,
+19107,,Carrera 53 No. 82 - 268,11.00714,-74.815575,,0,,
+19108,,Carrera 53 Con Calle 85,11.008348,-74.817602,,0,,
+19109,,Carrera 53 Con Calle 89,11.010818,-74.819605,,0,,
+19110,,Carrera 53 No. 91 - 60,11.012323,-74.822093,,0,,
+19111,,Carrera 53 Con Calle 94,11.013023,-74.823975,,0,,
+18400,,Calle 98 Con Carrera 52B Buenavista,11.012738,-74.827418,,0,,
+19158,,Carrera 51B No. 96A - 73,11.01076,-74.8279,,0,,
+19159,,Carrera 51B No. 93 - 63,11.009725,-74.825715,,0,,
+19160,,Carrera 51B Con Calle 90,11.008237,-74.822572,,0,,
+19161,,Carrera 51B Con Calle 86,11.006927,-74.819753,,0,,
+19162,,Carrera 51B Con Calle 84,11.005948,-74.81763,,0,,
+19163,,Carrera 51B No. 80 - 35,11.004015,-74.813225,,0,,
+19164,,Carrera 51B No. 79 - 105,11.003023,-74.810265,,0,,
+19165,,Carrera 51B No. 76 - 85,11.002193,-74.80799,,0,,
+17104,,Carrera 46 No. 84 - 126,11.002042,-74.820122,,0,,
+17106,,Carrera 46 No. 93 - 44 El Corral,11.005222,-74.827978,,0,,
+20473,,Calle 98 Con Carrera 47,11.007857,-74.830443,,0,,
+20474,,Calle 98 Con Carrera 51,11.0096,-74.829573,,0,,
+17131,,Calle 93 Con Carrera 49C,11.00661,-74.826237,,0,,
+17132,,Calle 93 Con Carrera 45B,11.004145,-74.827102,,0,,
+20566,,Carrera 46 Con Calle 90 Uniautonoma Sur,11.003378,-74.824262,,0,,
+101,,Pacho Galán,10.915372,-74.799099,,1,,1
+102,,Pedro Ramayá,10.921246,-74.799248,,1,,1
+104,,Buenos Aires,10.941506,-74.799586,,1,,1
+105,,La Ocho,10.946762,-74.799751,,1,,1
+106,,La Catorce,10.954878,-74.796465,,1,,1
+107,,La Veintiuna,10.96027,-74.793845,,1,,1
+108,,Atlántico,10.96881,-74.790278,,1,,1
+109,,Chiquinquirá,10.977192,-74.787841,,1,,1
+110,,La Arenosa,10.982126,-74.786456,,1,,1
+205,,Esthercita Forero,10.992552,-74.802488,,1,,1
+204,,Alfredo Correa de Andreis,10.990443,-74.795986,,1,,1
+20692,,Carrera 47 No. 100 - 137,11.008963,-74.83502,,0,,
+20693,,Carrera 47 Con Calle 102 Esq.,11.009536,-74.836161,,0,,
+18402,,Carrera 51B Con Calle 106 Makro,11.014585,-74.836222,,0,,
+19117,,Colegio Karl C. Parrish Antigua Via Puerto Colombia,11.016592,-74.842927,,0,,
+19118,,Colegio Sagrado Corazon Antigua Via Puerto Colombia,11.016593,-74.844647,,0,,
+19119,,Cementerio Jardines del Recuerdo Antigua Via Puerto Colombia,11.016558,-74.846957,,0,,
+19151,,Universidad del Norte Antigua Via Puerto Colombia Sur,11.017333,-74.85048,,0,,
+20567,,Club Campestre,11.017588,-74.852857,,0,,
+19150,,Colegio Internacional Britanico - Sur Oriente,11.017101,-74.858004,,0,,
+18404,,Colegio Aleman Norte,11.017895,-74.860823,,0,,
+19122,,Entrada Av. Las Dunas-Villa Campestre Antigua Via,11.018218,-74.861758,,0,,
+20598,,Carulla Las Dunas,11.019047,-74.864892,,0,,
+19147,,Universidad San Martin Antigua Via Puerto Colombia Sur,11.019388,-74.866568,,0,,
+19124,,Conj. Residencial Ciudad del Mar Antigua Via Puerto Colombia,11.019798,-74.868677,,0,,
+19125,,Frente Univ. Antonio Narino Antigua Via Puerto Colombia,11.020212,-74.870723,,0,,
+20576,,Universidad Antonio Nariño,11.019987,-74.870365,,0,,
+19146,,Ciudad del MarAntigua Via Puerto Colombia,11.019658,-74.868687,,0,,
+19123,,Universidad San Martin Antigua Via Puerto Colombia Norte,11.019137,-74.866495,,0,,
+19148,,Villa Campestre Antigua Via Puerto Colombia,11.018168,-74.861993,,0,,
+19149,,Colegio Aleman Antigua Via Puerto Colombia,11.017167,-74.85997,,0,,
+19121,,Colegio Internacional Britanico - Norte Occidente,11.016952,-74.858197,,0,,
+19120,,Universidad del Norte Antigua Via Puerto Colombia Norte,11.017378,-74.85142,,0,,
+19152,,Muebles Picapiedras Antigua Via Puerto Colombia,11.016517,-74.848205,,0,,
+19153,,Zona franca en Salud Antigua Via Puerto Colombia,11.016475,-74.844917,,0,,
+19154,,Urvisa Antigua Via Puerto Colombia,11.016433,-74.842783,,0,,
+B2-E15-A,,Alfredo Correa de Andreis,10.990375,-74.795923,,0,204,1
+R1-E15-D,,Alfredo Correa de Andreis,10.990747,-74.796058,,0,204,1
+R10-E15-F,,Alfredo Correa de Andreis,10.990747,-74.796527,,0,204,1
+R2-E15-B,,Alfredo Correa de Andreis,10.990495,-74.795908,,0,204,1
+S1-E15-C,,Alfredo Correa de Andreis,10.990423,-74.796118,,0,204,1
+S10-E15-E,,Alfredo Correa de Andreis,10.99058,-74.796665,,0,204,1
+B1-E08-D,,Atlántico,10.96872,-74.790163,,0,108,1
+B10-E08-F,,Atlántico,10.969155,-74.79004,,0,108,1
+R1-E08-B,,Atlántico,10.968515,-74.790222,,0,108,1
+S1-E08-A,,Atlántico,10.968535,-74.790495,,0,108,1
+S2-E08-C,,Atlántico,10.968715,-74.790393,,0,108,1
+S20-E08-E,,Atlántico,10.969145,-74.79028,,0,108,1
+A8-3-E12-F,,Barrio Abajo,10.987297,-74.78431,,0,202,1
+A8-3-E12-E,,Barrio Abajo,10.987065,-74.784275,,0,202,1
+B1-E12-C,,Barrio Abajo,10.986953,-74.783863,,0,202,1
+B2-E12-A,,Barrio Abajo,10.98691,-74.783718,,0,202,1
+R2-E12-B,,Barrio Abajo,10.987045,-74.78369,,0,202,1
+S2-E12-D,,Barrio Abajo,10.987137,-74.783875,,0,202,1
+B1-E04-D,,Buenos Aires,10.941818,-74.799458,,0,104,1
+R1-E04-B,,Buenos Aires,10.941627,-74.799488,,0,104,1
+S1-E04-A,,Buenos Aires,10.941537,-74.79964,,0,104,1
+S2-E04-C,,Buenos Aires,10.941725,-74.799682,,0,104,1
+B1-E09-D,,Chiquinquirá,10.977185,-74.787662,,0,109,1
+R1-E09-B,,Chiquinquirá,10.977003,-74.787722,,0,109,1
+S1-E09-A,,Chiquinquirá,10.976947,-74.787958,,0,109,1
+S2-E09-C,,Chiquinquirá,10.97718,-74.787893,,0,109,1
+B2-E16-A,,Esthercita Forero,10.992468,-74.802465,,0,205,1
+R1-E16-D,,Esthercita Forero,10.992705,-74.802543,,0,205,1
+R2-E16-B,,Esthercita Forero,10.99259,-74.802318,,0,205,1
+S1-E16-C,,Esthercita Forero,10.992575,-74.802642,,0,205,1
+E03-E-A66-S10-S20,,Joaquín Barrios Polo,10.933248,-74.799342,,0,103,1
+B1-E03-D,,Joaquín Barrios Polo,10.932948,-74.79903,,0,103,1
+E03-F-B10-R10,,Joaquín Barrios Polo,10.933358,-74.799152,,0,103,1
+R1-E03-B,,Joaquín Barrios Polo,10.93274,-74.79906,,0,103,1
+S1-E03-A,,Joaquín Barrios Polo,10.932678,-74.799372,,0,103,1
+S2-E03-C,,Joaquín Barrios Polo,10.932857,-74.79929,,0,103,1
+ER-71-74,,Joe Arroyo,10.995152,-74.807747,,0,206,1
+ER-A82-A81,,Joe Arroyo,10.995047,-74.807837,,0,206,1
+ER-91-92-93,,Joe Arroyo,10.99475,-74.808118,,0,206,1
+ER-94-U30,,Joe Arroyo,10.994897,-74.80803,,0,206,1
+ER-B2-R2,,Joe Arroyo,10.994355,-74.807899,,0,206,1
+ER-R1S1-R10S10-R50S50,,Joe Arroyo,10.994863,-74.807593,,0,206,1
+B1-E10-D,,La Arenosa,10.982117,-74.786393,,0,110,1
+B10-E10-F,,La Arenosa,10.982567,-74.786267,,0,110,1
+R1-E10-B,,La Arenosa,10.981927,-74.786448,,0,110,1
+S1-E10-A,,La Arenosa,10.981884,-74.786564,,0,110,1
+S2-E10-C,,La Arenosa,10.982099,-74.786522,,0,110,1
+S20-E10-E,,La Arenosa,10.982467,-74.786422,,0,110,1
+E14-F-A83-R10,,La Catedral,10.988595,-74.78895,,0,203,1
+E14-E-A83-S10,,La Catedral,10.988453,-74.788928,,0,203,1
+B2-E14-A,,La Catedral,10.988238,-74.788445,,0,203,1
+R1-E14-D,,La Catedral,10.988467,-74.78851,,0,203,1
+R2-E14-B,,La Catedral,10.988385,-74.788347,,0,203,1
+S1-E14-C,,La Catedral,10.988318,-74.78853,,0,203,1
+B1-E06-D,,La Catorce,10.95489,-74.796328,,0,106,1
+R1-E06-B,,La Catorce,10.954748,-74.796438,,0,106,1
+S1-E06-A,,La Catorce,10.954782,-74.796685,,0,106,1
+S2-E06-C,,La Catorce,10.954933,-74.796583,,0,106,1
+B1-E05-D,,La Ocho,10.946887,-74.799652,,0,105,1
+E05-F-B10-R10,,La Ocho,10.947358,-74.799708,,0,105,1
+R1-E05-B,,La Ocho,10.94671,-74.799648,,0,105,1
+S1-E05-A,,La Ocho,10.946562,-74.799847,,0,105,1
+E05-E-S10-S20,,La Ocho,10.947255,-74.799832,,0,105,1
+S2-E05-C,,La Ocho,10.946817,-74.7998,,0,105,1
+B1-E07-D,,La Veintiuna,10.960433,-74.793557,,0,107,1
+R1-E07-B,,La Veintiuna,10.960262,-74.793648,,0,107,1
+S1-E07-A,,La Veintiuna,10.960322,-74.793867,,0,107,1
+S2-E07-C,,La Veintiuna,10.96048,-74.793827,,0,107,1
+B1-E01-D,,Pacho Galán,10.915542,-74.799025,,0,101,1
+R1-E01-B,,Pacho Galán,10.915362,-74.79902,,0,101,1
+S1-E01-A,,Pacho Galán,10.915247,-74.79922,,0,101,1
+S2-E01-C,,Pacho Galán,10.915438,-74.799145,,0,101,1
+E11-F-A83-S20,,Parque Cultural del Caribe,10.986095,-74.778673,,0,201,1
+E11-E-A83-B10,,Parque Cultural del Caribe,10.985902,-74.778635,,0,201,1
+B1-E11-C,,Parque Cultural del Caribe,10.985827,-74.778182,,0,201,1
+B2-E11-A,,Parque Cultural del Caribe,10.985792,-74.777985,,0,201,1
+R2-E11-B,,Parque Cultural del Caribe,10.98595,-74.778028,,0,201,1
+S2-E11-D,,Parque Cultural del Caribe,10.985995,-74.778213,,0,201,1
+B1-E02-D,,Pedro Ramayá,10.921488,-74.79913,,0,102,1
+R1-E02-B,,Pedro Ramayá,10.921293,-74.799132,,0,102,1
+S1-E02-A,,Pedro Ramayá,10.921185,-74.799265,,0,102,1
+S2-E02-C,,Pedro Ramayá,10.921355,-74.799247,,0,102,1
+A3-2-EP-5-A32,,Portal de Soledad,10.907368,-74.80046,,0,20300,1
+EP-3-A33-A35,,Portal de Soledad,10.907398,-74.80033,,0,20300,1
+A3-4-EP-6-A34,,Portal de Soledad,10.907412,-74.800364,,0,20300,1
+A5-3-EP-4-A53,,Portal de Soledad,10.907203,-74.800583,,0,20300,1
+EP-2-B1S2-B10S20,,Portal de Soledad,10.907432,-74.800168,,0,20300,1
+EP-1-R1S1-R50S50-R10S10,,Portal de Soledad,10.90715,-74.800348,,0,20300,1
