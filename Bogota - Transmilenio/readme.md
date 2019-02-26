@@ -1,4 +1,7 @@
 This file is based on the data that is located over here:
+https://www.datos.gov.co/browse?q=gtfs&sortBy=relevance
+
+There is new data thats need work:
 
 http://datosabiertos.bogota.gov.co/dataset?_organization_limit=0&organization=sdm
 
