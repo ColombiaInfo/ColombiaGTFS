@@ -13,3 +13,4 @@ Problems:
 * Wrong geolocation is saved as a number
 * a invalid column header
 * route numbers containing dots (.)
+* stop_times file is not complete
