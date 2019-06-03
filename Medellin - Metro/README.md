@@ -7,5 +7,7 @@ There are some problems with the data, the frequencies.txt and the stoptimes.txt
 
 https://www.metrodemedellin.gov.co/viajeconnosotros/mapas 
 
+rutas in pdf https://www.medellin.gov.co/movilidad/component/jdownloads/viewcategory/1759-rutas-de-buses
+
 routes
 
