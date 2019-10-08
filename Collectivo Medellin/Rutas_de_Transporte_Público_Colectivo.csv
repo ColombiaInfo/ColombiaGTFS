@@ -1,0 +1,685 @@
+﻿OBJECTID,RECORRIDO,CODIGO,NOMBRE,SISTEMA,TIPO,EMPRESA,SHAPELEN
+21,Origen-Destino,C6-020,San José de la Cima - Universidad,,Alimentadora,Sistema Alimentador Oriental S.A.S.,4431.00077701183
+22,Origen-Destino,C6-021,Granizal - Tricentenario,,Alimentadora,Sistema Alimentador Oriental S.A.S.,4027.91020715917
+23,Origen-Destino,C6-022,La Cruz - Prado,,Alimentadora,Sistema Alimentador Oriental S.A.S.,6668.09468404235
+24,Origen-Destino,C6-023,Santa Lucía - 8 de Marzo - Estación Alejandro Echavarría,,Alimentadora,Sistema Alimentador Oriental S.A.S.,1537.59190613747
+1,Origen-Destino,C6-001,Zamora - Acevedo,,Alimentadora,Sistema Alimentador Oriental S.A.S.,2370.88368437929
+2,Origen-Destino,C6-002,Villa Hermosa - Hospital,,Alimentadora,Sistema Alimentador Oriental S.A.S.,5507.36666331424
+3,Origen-Destino,C6-003,Campo Valdés - Hospital,,Alimentadora,Sistema Alimentador Oriental S.A.S.,4127.43640063119
+4,Origen-Destino,C6-004,La Milagrosa - Exposiciones,,Alimentadora,Sistema Alimentador Oriental S.A.S.,6709.4930233545
+5,Origen-Destino,C6-005,Cerros el Vergel - San José,,Alimentadora,Sistema Alimentador Oriental S.A.S.,5298.61780085465
+6,Origen-Destino,C6-005A,Quinta Linda - San José,,Alimentadora,Sistema Alimentador Oriental S.A.S.,5146.4297122586
+7,Origen-Destino,C6-006,Villa Liliam - Alejandro Echavarría,,Alimentadora,Sistema Alimentador Oriental S.A.S.,1348.54508591895
+8,Origen-Destino,C6-007,Buenos Aires - San Antonio,,Alimentadora,Sistema Alimentador Oriental S.A.S.,3993.62142215898
+9,Origen-Destino,C6-008,La Libertad - Prado,,Alimentadora,Sistema Alimentador Oriental S.A.S.,3774.17394774905
+10,Origen-Destino,C6-009,Enciso - Prado,,Alimentadora,Sistema Alimentador Oriental S.A.S.,4810.52999260901
+11,Origen-Destino,C6-010A,Villatina - Alejandro Echavarría,,Alimentadora,Sistema Alimentador Oriental S.A.S.,1788.28409489303
+12,Origen-Destino,C6-010,Villatina - Parque Berrío,,Alimentadora,Sistema Alimentador Oriental S.A.S.,5609.43972144198
+13,Origen-Destino,C6-011,Popular N° 2 - El Playón - Acevedo,,Alimentadora,Sistema Alimentador Oriental S.A.S.,1935.23567405253
+14,Origen-Destino,C6-012,La Francia - Acevedo,,Alimentadora,Sistema Alimentador Oriental S.A.S.,2322.64352481593
+15,Origen-Destino,C6-013,Popular N° 1 - Tricentenario,,Alimentadora,Sistema Alimentador Oriental S.A.S.,4051.68925761357
+16,Origen-Destino,C6-015,Granizal - Hospital,,Alimentadora,Sistema Alimentador Oriental S.A.S.,5025.46490841315
+17,Origen-Destino,C6-016,Nuevo Horizonte - Hospital,,Alimentadora,Sistema Alimentador Oriental S.A.S.,5977.70841713498
+18,Origen-Destino,C6-018,Santa Cecilia - Tricentenario,,Alimentadora,Sistema Alimentador Oriental S.A.S.,3713.00973330101
+19,Origen-Destino,C6-019,El Raizal - Jardín - Gardel,,Alimentadora,Sistema Alimentador Oriental S.A.S.,2218.74563196915
+20,Origen-Destino,C6-019A,El Raizal - Jardín - Gardel,,Alimentadora,Sistema Alimentador Oriental S.A.S.,2272.86615936233
+25,Origen-Destino,C6-024,8 de Marzo - Santa Lucía - Estación Alejandro Echavarría,,Alimentadora,Sistema Alimentador Oriental S.A.S.,2737.14584051396
+26,Origen-Destino,C6-025,La Espadera - 8 de Marzo - Oriente,,Alimentadora,Sistema Alimentador Oriental S.A.S.,3248.6887931118
+27,Origen-Destino,C3-001,Santa Gema - La Mota - Aguacatala,,Alimentadora,Masivo de Occidente,6672.50203619578
+28,Origen-Destino,C3-001A,Santa Gema - La Mota - Aguacatala,,Alimentadora,Masivo de Occidente,4440.35018613344
+29,Origen-Destino,C3-002,Aguacatala - Bulerías,,Alimentadora,Masivo de Occidente,7475.44786626254
+43,Origen-Destino,302,Circular izquierda 302,Circular Izquierda 302,Circular,Autobuses Poblado Laureles,14545.5529293043
+44,Origen-Destino,313,Terminal del Norte-Terminal del Sur,Circular 313,Circular,Combuses,27442.2483475013
+45,Origen-Destino,300,Circular,"Circular Coonatra 300, 301, 310, 311",Circular,Coonatra,8983.54417479934
+46,Origen-Destino,301,Circular,"Circular Coonatra 300, 301, 310, 311",Circular,Coonatra,19078.0839980994
+47,Origen-Destino,310,Circular,"Circular Coonatra 300, 301, 310, 311",Circular,Coonatra,15070.6343727244
+48,Origen-Destino,311,Circular,"Circular Coonatra 300, 301, 310, 311",Circular,Coonatra,11563.5974119762
+49,Origen-Destino,304,Comercial Hotelera derecha,"Circular 304, 305, 308, 308D, 309, 309D",Circular,Invetrans,8147.90286577348
+50,Origen-Destino,305,Comercial Hotelera izquierda,"Circular 304, 305, 308, 308D, 309, 309D",Circular,Invetrans,27935.911599288
+51,Origen-Destino,308,Ruta de la Salud derecha,"Circular 304, 305, 308, 308D, 309, 309D",Circular,Coinvetrans,9361.97822979526
+54,Origen-Destino,309D,Ruta de la Salud izquierda directa,"Circular 304, 305, 308, 308D, 309, 309D",Circular,Coinvetrans,17103.2599195677
+55,Origen-Destino,315,Circular 315,Circular 315 Y 316,Circular,Santra,7119.29285986402
+56,Origen-Destino,316,Circular 316,Circular 315 Y 316,Circular,Santra,9471.59305300512
+52,Origen-Destino,308D,Ruta de la Salud derecha directa,"Circular 304, 305, 308, 308D, 309, 309D",Circular,Coinvetrans,9361.97822979526
+53,Origen-Destino,309,Ruta de la Salud izquierda,"Circular 304, 305, 308, 308D, 309, 309D",Circular,Coinvetrans,16658.8621837641
+30,Origen-Destino,C3-003P,Belén - Piscina - Aula Ambiental,,Alimentadora,Masivo de Occidente,6263.65896621896
+31,Origen-Destino,C3-003R,Belén - Rodeo Alto - Rodeo Verde,,Alimentadora,Masivo de Occidente,4501.32664760819
+32,Origen-Destino,C3-003RV,Ruta Alimentadora - Cuenca 3,,Alimentadora,Masivo de Occidente,4851.84072222621
+33,Origen-Destino,C3-003,Belén - Manzanillo,,Alimentadora,Masivo de Occidente,5632.0735475033
+34,Origen-Destino,C3-004,Belén Altavista - Los Alpes,,Alimentadora,Masivo de Occidente,5586.16666041731
+35,Origen-Destino,C3-005,Belén Aguas Frías - U de M,,Alimentadora,Masivo de Occidente,4785.04677137384
+36,Origen-Destino,C3-006,Las Violetas - Villa Café - U de M,,Alimentadora,Masivo de Occidente,2322.29843638733
+37,Origen-Destino,C3-006A,Ruta Alimentadora - Cuenca 3,,Alimentadora,Masivo de Occidente,2002.79008598611
+38,Origen-Destino,C3-007,Loma de los Bernal - La Palma,,Alimentadora,Masivo de Occidente,2260.50219397829
+39,Origen-Destino,C3-007A,Loma de los Bernal - Aliadas - La Palma,,Alimentadora,Masivo de Occidente,3505.36587071224
+40,Origen-Destino,C3-008,Rosales - Belén Rincón,,Alimentadora,Masivo de Occidente,4060.45909925048
+41,Origen-Destino,303,Circular derecha 303,Circular Derecha 303,Circular,Coonatra,7777.62577820672
+42,Origen-Destino,286,Circular 286,Circular 286,Circular,Combuses,7697.38387036145
+66,Origen-Destino,317 Aguacatala,317 Aguacatala,,Integrada,Cootrasana,14656.2348461556
+67,Origen-Destino,317 2-1,San Antonio de Prado El Limonar-La Florida,,Directa Centro,Cootrasana,42272.9491052561
+68,Origen-Destino,317 2-1,San Antonio de Prado El Limonar-Pradito,,Directa Centro,Cootrasana,42272.9491052561
+69,Origen-Destino,318i,San Antonio de Prado estación Sabaneta,,Integrada,Cootrasana,8363.2185838509
+70,Origen-Destino,318ii,San Antonio de Prado estación La Estrella,,Integrada,Cootrasana,6755.43877406275
+71,Origen-Destino,318B,San Antonio de Prado,,Directa Centro,Cootrasana,18353.0058139213
+72,Origen-Destino,318B,San Antonio de Prado bus Barichara-Limonar,,Directa Centro,Cootrasana,18353.0058139213
+73,Origen-Destino,318B,San Antonio de Prado bus La Verde-Los Rieles,,Directa Centro,Cootrasana,19324.9570722412
+74,Origen-Destino,318M,San Antonio de Prado micro,,Directa Centro,Cootrasana,21900.7337906
+77,Origen-Destino,319M,San Antonio de Prado El Vergel micro,,Directa Centro,Cootrasana,21912.2469101818
+78,Origen-Destino,319i,San Antonio de Prado El Vergel estación Sabaneta,,Integrada,Cootrasana,7303.49954741489
+79,Origen-Destino,Ruta 1,Barichara - Pradito,,Directa No Centro,Cootrasana,5359.32402605016
+80,Origen-Destino,Ruta 10,Integrada El Vergel,,Directa No Centro,Cootrasana,2875.3883031223
+75,Origen-Destino,319B,San Antonio de Prado,,Directa Centro,Cootrasana,22051.5736400334
+76,Origen-Destino,319B,San Antonio de Prado El Vergel-Naranjito bus,,Directa Centro,Cootrasana,22051.5736400334
+58,Origen-Destino,140,Guayabal Cristo Rey N°1,,Directa Centro,Translamaya,7420.33078809829
+59,Origen-Destino,141,Guayabal La Raya,,Directa Centro,Translamaya,8226.57755237819
+60,Origen-Destino,142,Guayabal Viviendas del Sur,,Directa Centro,Translamaya,8962.07082567709
+61,Origen-Destino,143,La Colinita,,Directa,Translamaya,11946.4490698083
+62,Origen-Destino,143i,Aeropuerto Terminal del Sur-Mota-Metro,,Integrada,Translamaya,5064.51588906602
+63,Origen-Destino,317i,Limonar estación Itagüí,,Integrada,Cootrasana,8391.68061606871
+64,Origen-Destino,317 1-2,San Antonio de Prado El Limonar,,Directa Centro,Cootrasana,21197.8141766316
+65,Origen-Destino,317 2-1,San Antonio de Prado El Limonar,,Directa Centro,Cootrasana,20825.1233909032
+81,Origen-Destino,Ruta 11,Villa Loma,,Directa No Centro,Cootrasana,1986.67025589558
+82,Origen-Destino,Ruta 12,El Salado,,Directa No Centro,Cootrasana,3799.64660955724
+83,Origen-Destino,Ruta 13,Montañita,,Directa No Centro,Cootrasana,3902.44410613905
+84,Origen-Destino,160,Trinidad-Parque Berrío,,Directa Centro,Coometropol,6108.18389760096
+85,Origen-Destino,160i,Terminal del Sur estación Industriales,,Integrada,Coometropol,3263.12083645454
+86,Origen-Destino,161,Trinidad-Parque Berrío-Minorista,,Directa Centro,Coometropol,8053.21252944729
+103,Origen-Destino,246ii,Blanquizal integrada,2A,Integrada,Cootransblan,4965.27919141412
+104,Origen-Destino,250AiP,Pajarito integrada,2A,Integrada,Palenque Robledal,1859.12014056796
+105,Origen-Destino,250Aii,Tulipanes La Huerta integrada,2A,Integrada,Palenque Robledal,2722.91510851383
+106,Origen-Destino,250R,Robledales,2A,Directa Centro,Palenque Robledal,10763.4590222739
+107,Origen-Destino,250iVF,Villa Flora integrada,2A,Integrada,Palenque Robledal,5387.67859412508
+108,Origen-Destino,250iR,Robledal integrada,2A,Integrada,Palenque Robledal,8242.08123942116
+109,Origen-Destino,250VF,Robledo Villa Flora,2A,Directa Centro,Palenque Robledal,10010.6350727357
+113,Origen-Destino,251,Margaritas,2A,Directa Centro,Palenque Robledal,11604.6288736874
+114,Origen-Destino,252,Kennedy,2A,Directa Centro,Palenque Robledal,10832.9772344077
+110,Origen-Destino,250AH,La Huerta,2A,Directa Centro,Palenque Robledal,11147.3813230016
+111,Origen-Destino,250M,Moravia,2A,Integrada,Palenque Robledal,9201.58894615057
+112,Origen-Destino,250AP,Pajarito,2A,Directa Centro,Palenque Robledal,12827.8415265581
+120,Origen-Destino,255A,Nuevo Occidente-Las Flores,2A,Directa Centro,Rápido San Cristóbal,15502.7878774885
+121,Origen-Destino,255D,San Cristóbal -Conexión vial,2A,Directa Centro,Rápido San Cristóbal,12545.1167138765
+87,Origen-Destino,Ruta 2,Pradito - Barichara,,Directa No Centro,Cootrasana,4504.28345837744
+88,Origen-Destino,Ruta 3,Pradito - Vergel,,Directa No Centro,Cootrasana,4103.6986661325
+89,Origen-Destino,Ruta 4,Vergel - Pradito,,Directa No Centro,Cootrasana,4413.26747587075
+90,Origen-Destino,Ruta 5,Florida A,,Directa No Centro,Cootrasana,2524.59725964021
+91,Origen-Destino,Ruta 6,Veredal,,Directa No Centro,Cootrasana,2675.53868017871
+92,Origen-Destino,Ruta 7,Naranjitos,,Directa No Centro,Cootrasana,4182.10258744221
+93,Origen-Destino,Ruta 8VC,La Verde - Las Camelias,,Directa No Centro,Cootrasana,1159.42408553468
+94,Origen-Destino,Ruta 8VR,La Verde - Los Rieles,,Directa No Centro,Cootrasana,755.079801252708
+95,Origen-Destino,Ruta 9,Horizontes,,Directa No Centro,Cootrasana,3194.06308826207
+96,Origen-Destino,246,Blanquizal,2A,Directa Centro,Cootransblan,9658.82066531177
+98,Origen-Destino,246D,Blanquizal Calazanía directa,2A,Directa Centro,Cootransblan,8633.99662479156
+100,Origen-Destino,246C,Blanquizal Calazanía,2A,Directa Centro,Cootransblan,7679.85240060143
+102,Origen-Destino,246i,Blanquizal integrada,2A,Integrada,Cootransblan,4761.52525568614
+133,Origen-Destino,260CL,Clínica,2A,Directa Centro,Palenque Robledal,8342.32661767358
+134,Origen-Destino,260C,Córdoba,2A,Directa Centro,Palenque Robledal,7069.34226070209
+135,Origen-Destino,260i,Seminario integrada,2A,Integrada,Palenque Robledal,5521.49636523574
+136,Origen-Destino,260BR,Brisas,2A,Directa Centro,Palenque Robledal,7796.63752276019
+137,Origen-Destino,260T,Torres,2A,Directa Centro,Palenque Robledal,7353.37885538085
+140,Origen-Destino,288,Doce de Octubre,2A,Directa Centro,Transporte Medellín Castilla ,9918.78720940198
+143,Origen-Destino,261A,Alfonso López - Viejo Terminal,2B,Directa Centro,Transporte Medellín Castilla ,9469.5091203744
+144,Origen-Destino,254i,Pilarica integrada,2B,Integrada,Transporte Medellín Castilla ,4049.26600379427
+138,Origen-Destino,267,Éxito,2A,Directa Centro,Palenque Robledal,12695.8917719317
+139,Origen-Destino,285,Doce de Octubre,2A,Directa Centro,Palenque Robledal,12671.7562132673
+115,Origen-Destino,253D,Aures derecha,2A,Directa Centro,Palenque Robledal,8974.36539460429
+116,Origen-Destino,253I,Aures izquierda,2A,Directa Centro,Palenque Robledal,9193.54469032179
+117,Origen-Destino,253iA,Robledo Aures integrada,2A,Integrada,Palenque Robledal,8008.59571090386
+119,Origen-Destino,254,Picacho,2A,Directa Centro,Transporte Medellín Castilla ,11846.5233511368
+122,Origen-Destino,255,San Cristóbal - Doña María,2A,Directa Centro,Rápido San Cristóbal,12060.101581615
+124,Origen-Destino,255iD,Metrocable La Aurora,2A,Integrada,Rápido San Cristóbal,7965.1442768863
+125,Origen-Destino,255P,Palmitas-Centro,2A,Directa Centro,Rápido San Cristóbal,41967.6710462262
+127,Origen-Destino,255V1D,San Sebastián Palmitas Centro,2A,Directa No Centro,Rápido San Cristóbal,15143.8177309487
+128,Origen-Destino,255V2,Vereda Yolombó - Parque San Cristóbal,2A,Directa No Centro,Rápido San Cristóbal,7695.35221779432
+129,Origen-Destino,255V3 ,Derecha Vereda Boquerón - Parque San Cristóbal,2A,Directa No Centro,Rápido San Cristóbal,13132.8223726638
+130,Origen-Destino,255V3,Izquierda Vereda Boquerón - Parque San Cristóbal,2A,Directa No Centro,Rápido San Cristóbal,7265.21989024781
+131,Origen-Destino,255A,Nuevo Occidente El Tirol,2A,Directa Centro,Rápido San Cristóbal,15312.0419440443
+132,Origen-Destino,255A,Las Flores-Moravia-Centro,2A,Directa Centro,Rápido San Cristóbal,16822.3560320761
+123,Origen-Destino,255i,Metrocable Aurora-Cárcel,2A,Integrada,Rápido San Cristóbal,5551.51164984743
+126,Origen-Destino,255V1 ,Vereda El Llano - Parque San Cristóbal,2A,Directa No Centro,Rápido San Cristóbal,3040.12503912738
+141,Origen-Destino,255V,Vereda La Suiza-La Frisola-La Guayabala-La Volcana,2A,Directa No Centro,Rápido San Cristóbal,9520.75386132254
+142,Origen-Destino,255V,Vereda La Aldea,2A,Directa No Centro,Rápido San Cristóbal,5206.17241971161
+145,Origen-Destino,254iB,Pilarica,2B,Integrada,Transporte Medellín Castilla ,5271.91251307821
+146,Origen-Destino,261,Alfonso López Calle 94,2B,Directa Centro,Transporte Medellín Castilla ,8611.85111524258
+147,Origen-Destino,261i Der,Derecha Castilla - Estación Universidad,2B,Integrada,Transporte Medellín Castilla ,5074.64625046455
+148,Origen-Destino,261i Izq,Izquierda Castilla - Estación Universidad,2B,Integrada,Transporte Medellín Castilla ,5770.50908729316
+149,Origen-Destino,261ii,Estación Tricentenario,2B,Integrada,Transporte Medellín Castilla ,3645.80289313933
+160,Origen-Destino,283,Barrio Nuevo - Carrera 70,2B,Directa Centro,Transporte Medellín Castilla ,10022.7515079042
+161,Origen-Destino,283i,Florencia-estación Acevedo,2B,Integrada,Transporte Medellín Castilla ,3504.65323557134
+162,Origen-Destino,284,Barrio Nuevo - Carrera 74,2B,Directa Centro,Transporte Medellín Castilla ,13287.5490029309
+163,Origen-Destino,289,Pilarica Calle 96,2B,Directa Centro,Transporte Medellín Castilla ,9888.18712964986
+164,Origen-Destino,306A,Izquierda - Circular Noroccidental,2B,Integrada,Transporte Medellín Castilla ,7271.3320860625
+167,Origen-Destino,Anillo 1 Carrera 65,Carabobo - Av. de Greiff,2B,Directa Centro,Transporte Medellín Castilla,7758.41975215614
+168,Origen-Destino,Anillo 3AH Carrera 65,Alpujarra - Oriental sentido antihorario,2B,Directa Centro,Transporte Medellín Castilla,10807.6999355848
+169,Origen-Destino,Anillo 3H Carrera 65,Alpujarra - Oriental sentido horario,2B,Directa Centro,Transporte Medellín Castilla,8979.67475081106
+165,Origen-Destino,306B,Derecha - Circular Noroccidental,2B,Integrada,Transporte Medellín Castilla ,8733.50072426746
+166,Origen-Destino,402,Transversal Occidental,2B,Directa Centro,Transporte Medellín Castilla ,9680.29004885434
+150,Origen-Destino,263,12 de Octubre - Calle 90,2B,Directa Centro,Transporte Medellín Castilla ,9802.32411563173
+152,Origen-Destino,263i,12 de Octubre - Estación Tricentenario,2B,Integrada,Transporte Medellín Castilla ,4616.66113887655
+153,Origen-Destino,263ii,12 de Octubre - Estación Tricentenario,2B,Integrada,Transporte Medellín Castilla ,1470.55421013473
+154,Origen-Destino,265,Castillita,2B,Directa Centro,Transporte Medellín Castilla ,9352.45210080675
+155,Origen-Destino,270i,Gratamira-Estación Acevedo,2B,Integrada,Transporte Medellín Castilla ,3162.19776873453
+156,Origen-Destino,280,Santander - Carrera 73,2B,Directa Centro,Transporte Medellín Castilla ,10087.9097829425
+157,Origen-Destino,280 Directa,Santander - Carrera 73,2B,Directa Centro,Transporte Medellín Castilla ,9391.11116332629
+158,Origen-Destino,281,Florencia,2B,Directa Centro,Transporte Medellín Castilla ,9331.57929635878
+159,Origen-Destino,282,Doce de Octubre - HPTU,2B,Directa Centro,Transporte Medellín Castilla ,8769.25663997766
+180,Origen-Destino,170,Belén Las Playas,3A,Directa Centro,Cootrabel,8309.9604183668
+182,Origen-Destino,172,Belén La Gloria,3A,Directa Centro,Cootrabel,12971.5487795495
+184,Origen-Destino,178,Belén La Nubia,3A,Directa Centro,Cootrabel,13596.2414022552
+187,Origen-Destino,130A,Poblado Parque alterna,5A,Directa Centro,Autobuses Poblado Laureles,11445.2182416578
+188,Origen-Destino,130i,Industriales - Aguacatala,5A,Integrada,Autobuses Poblado Laureles,6811.62058660215
+189,Origen-Destino,132,Poblado Éxito directa,5A,Directa Centro,Autobuses Poblado Laureles,9250.5258846617
+186,Origen-Destino,130,Poblado Parque directa,5A,Directa Centro,Autobuses Poblado Laureles,10827.0491342384
+170,Origen-Destino,Anillo 3H Carrera 65 Horario Esp,Alpujarra - Oriental sentido horario,2B,Directa Centro,Transporte Medellín Castilla,9623.92043443891
+171,Origen-Destino,Anillo F1 Carrera 65,Av. Greiff - Puente Horacio Toro,2B,Directa Centro,Transporte Medellín Castilla,7112.18217546058
+172,Origen-Destino,Anillo F2 Carrera 65,Av. Regional - San Diego,2B,Directa Centro,Transporte Medellín Castilla,9827.76540461775
+173,Origen-Destino,Anillo F3 Carrera 65,Parque Los Periodistas,2B,Directa Centro,Transporte Medellín Castilla,8428.98481983408
+174,Origen-Destino,Anillo 1 Carrera 73,Carabobo - Av. Greiff,2B,Directa Centro,Transporte Medellín Castilla,6324.56988232669
+175,Origen-Destino,Anillo 2 Carrera 73,El Hueco - Parque Berrío,2B,Directa Centro,Transporte Medellín Castilla,8275.63146198966
+176,Origen-Destino,Anillo 3ah Carrera 73,Alpujarra - Oriental sentido antihorario,2B,Directa Centro,Transporte Medellín Castilla,9409.9228467799
+177,Origen-Destino,Anillo 3h Carrera 73,Alpujarra - Oriental sentido horario,2B,Directa Centro,Transporte Medellín Castilla,7545.82488098162
+178,Origen-Destino,Anillo F1 Carrera 73,Av. Greiff - Puente Horacio Toro,2B,Directa Centro,Transporte Medellín Castilla,6908.64408346316
+179,Origen-Destino,Anillo F3 Carrera 73,Parque Los Periodistas,2B,Directa Centro,Transporte Medellín Castilla,17824.5670767198
+190,Origen-Destino,132A,Poblado Éxito alterna,5A,Directa Centro,Autobuses Poblado Laureles,7716.11242854859
+191,Origen-Destino,132i,"La Visitación, Oviedo, U. Eafit",5A,Integrada,Autobuses Poblado Laureles,4096.60747818632
+192,Origen-Destino,132iA,"La Visitación, Oviedo, U. Eafit alterna",5A,Integrada,Autobuses Poblado Laureles,5273.11944954408
+193,Origen-Destino,132ii,Aguacatala - Poblado - Av. 34,5A,Integrada,Autobuses Poblado Laureles,7304.95913431468
+203,Origen-Destino,135,Poblado Campestre,5A,Directa Centro,Autobuses Poblado Laureles,10317.0544981692
+205,Origen-Destino,135i,Los Yarumos San Lucas,5A,Integrada,Autobuses Poblado Laureles,4560.50974627897
+206,Origen-Destino,135ii,Patio Bonito,5A,Integrada,Autobuses Poblado Laureles,2389.45766334952
+207,Origen-Destino,136,San Lucas - Las Palmas,5A,Directa Centro,Autobuses Poblado Laureles,11543.4185733375
+208,Origen-Destino,136A,Colinas del Viento - La Isla,5A,Directa Centro,Autobuses Poblado Laureles,8280.12870594316
+213,Origen-Destino,97,Quintalinda-El Vergel,6A,Directa No Centro,Flota la V,4596.0570425621
+214,Origen-Destino,99,Cerros de Quintalinda,6A,Directa Centro,Coopcerquin,6518.76411510337
+215,Origen-Destino,099 Horario Esp,Cerros de Quintalinda,6A,Directa Centro,Coopcerquin,7206.26039559393
+209,Origen-Destino,136ii,Las Palmas - CES,5A,Integrada,Autobuses Poblado Laureles,5779.44945285977
+210,Origen-Destino,287,Terminal de Transporte Norte,5A,Directa Centro,Autobuses Poblado Laureles,4897.43524838593
+194,Origen-Destino,133,Poblado San Lucas directa,5A,Directa Centro,Autobuses Poblado Laureles,10254.4106095785
+195,Origen-Destino,133D,San Lucas directa,5A,Directa Centro,Autobuses Poblado Laureles,9947.72576823345
+196,Origen-Destino,133i,San Lucas,5A,Integrada,Autobuses Poblado Laureles,5140.56778829845
+197,Origen-Destino,133ii,"Campestre, ISA, Loma de Los González",5A,Integrada,Autobuses Poblado Laureles,4367.59916224933
+198,Origen-Destino,133iiA,Balsos La Y,5A,Integrada,Autobuses Poblado Laureles,4133.34568009541
+199,Origen-Destino,134,Poblado - El Tesoro - La Chacona,5A,Directa Centro,Autobuses Poblado Laureles,6807.69525410517
+200,Origen-Destino,134i,La Y,5A,Integrada,Autobuses Poblado Laureles,5425.59253027914
+201,Origen-Destino,134iA,"CES, Chuscalito, Chacaltaya",5A,Integrada,Autobuses Poblado Laureles,5536.5140782841
+202,Origen-Destino,134Y,Poblado - El Tesoro - La Y,5A,Directa Centro,Autobuses Poblado Laureles,6807.69525410517
+231,Origen-Destino,2,Santa Rita -Zamora,6B,Directa Centro,Combuses,7532.38053708729
+232,Origen-Destino,6,La Francia,6B,Directa Centro,Transconor,8616.37473816836
+233,Origen-Destino,22,Santa Cruz - Terminal,6B,Directa Centro,Transporte Aranjuez Santa Cruz,7533.63528349517
+235,Origen-Destino,23,Popular N° 1,6B,Directa Centro,Transporte Aranjuez Santa Cruz,8844.5898173208
+239,Origen-Destino,041D,Aranjuez anillo derecha,6B,Directa Centro,Transporte Aranjuez Santa Cruz ,7517.40073889761
+240,Origen-Destino,041I,Aranjuez anillo izquierda,6B,Directa Centro,Transporte Aranjuez Santa Cruz ,5380.52437715988
+241,Origen-Destino,42,Aranjuez intermedia,6B,Directa Centro,Transporte Aranjuez Santa Cruz,8857.56366407568
+236,Origen-Destino,24,Playón de los Comuneros,6B,Directa Centro,Transporte Aranjuez Santa Cruz,8639.9085716162
+237,Origen-Destino,24,Playón de los Comuneros - Oriental,6B,Directa Centro,Transporte Aranjuez Santa Cruz,8727.95452752448
+217,Origen-Destino,102,Ávila-Iglesia Cataluña,6A,Directa Centro,Cootranscataluña,9327.46604203082
+219,Origen-Destino,102A,Pablo Escobar-Cataluña,6A,Directa No Centro,Cootranscataluña,3736.40585576151
+222,Origen-Destino,111,El Salvador derecho,6A,Directa Centro,Flota la Milagrosa,5210.57035802221
+224,Origen-Destino,111,Quintas del Salvador,6A,Directa Centro,Flota la Milagrosa,5322.38116027993
+226,Origen-Destino,112,Las Palmas,6A,Directa Centro,Copatra,3167.26984220753
+228,Origen-Destino,113M,Pablo E.,6A,Directa Centro,Flota la Milagrosa,4093.88338343399
+229,Origen-Destino,113,Ávila - Cataluña,6A,Directa Centro,Flota la Milagrosa,8437.38264473872
+242,Origen-Destino,031 P-C,Popular Centro,6C,Directa Centro,Expreso Campo Valdés,10462.739760082
+243,Origen-Destino,031 P-F,Popular Ferrocarril,6C,Directa Centro,Expreso Campo Valdés,9575.03546105989
+252,Origen-Destino,080 V-M,Villa Hermosa - La Mansión,6D,Directa Centro,Flota Nueva Villa,6606.29298834858
+253,Origen-Destino,080 V-O,Villa Hermosa - La Mansión-Directa Oriental,6D,Directa Centro,Flota Nueva Villa,5369.78043870272
+254,Origen-Destino,81,Villa Hermosa - Derecho,6D,Directa Centro,Flota Nueva Villa,5660.60079535201
+255,Origen-Destino,082 V-LA,Villa Hermosa - Los Ángeles,6D,Directa Centro,Flota Nueva Villa,5869.08160043604
+256,Origen-Destino,082 V-LAD,Villa Hermosa - Los Ángeles - Directa,6D,Directa Centro,Flota Nueva Villa,5497.56598278571
+257,Origen-Destino,85,La Honda,6D,Directa Centro,Cootracovi,6815.60166734653
+258,Origen-Destino,55,El Pinar,6E,Directa Centro,Cootranscol,11206.3531842382
+259,Origen-Destino,055P,El Pinar Periférica,6E,Directa Centro,Cootranscol,2118.90062876992
+260,Origen-Destino,56,La Esperanza,6E,Directa Centro,Cootranscol,8515.98100186703
+261,Origen-Destino,57,Bello Oriente,6E,Directa Centro,Coopetransa,14406.357106597
+262,Origen-Destino,60,Santo Domingo,6E,Directa Centro,Cootranscol,7019.73937224091
+267,Origen-Destino,90,Pinal,6F,Directa Centro,Copatra,7144.04645732539
+268,Origen-Destino,91,Alcázares de Sucre,6F,Directa Centro,Copatra,7686.78726465109
+269,Origen-Destino,91,Llanadas,6F,Directa Centro,Copatra,3575.10194293245
+270,Origen-Destino,091F,El Faro,6F,Directa Centro,Copatra,5712.02546057545
+263,Origen-Destino,69,El Jardín,6E,Directa Centro,Coopetransa ,7458.91132022999
+264,Origen-Destino,87,Pinar Torres,6F,Directa Centro,Cootranspinal,4356.08885900377
+265,Origen-Destino,087 Horario Esp,Pinar Torres horario esp,6F,Directa Centro,Cootranspinal,6830.44108481449
+266,Origen-Destino,88,Pinar Torres,6F,Directa Centro,Cootranspinal,5717.5825293473
+244,Origen-Destino,031 P-SD,Popular Centro San Diego,6C,Directa Centro,Expreso Campo Valdés,11868.8512750503
+246,Origen-Destino,37 - 39,Hueco,6C,Directa Centro,Autocol,8179.63435436087
+247,Origen-Destino,37 - 39,Ferrocarril Minorista,6C,Directa Centro,Autocol,10092.5206257883
+248,Origen-Destino,37 - 39,Villanueva,6C,Directa Centro,Autocol,8114.87411987054
+249,Origen-Destino,51-52 CV-C,Campo Valdés Centro,6C,Directa Centro,Expreso Campo Valdés,6467.81246545944
+250,Origen-Destino,51-52 CV-SD,Campo Valdés San Diego,6C,Directa Centro,Expreso Campo Valdés,7618.30262777946
+288,Origen-Destino,94,Santa Lucía,6H,Directa Centro,Copatra,6269.25842700599
+289,Origen-Destino,95,Perlas,6H,Directa Centro,Copatra,6682.62154935065
+290,Origen-Destino,95,Perlas Minorista,6H,Directa Centro,Copatra,7164.542218356
+291,Origen-Destino,95,Villatina  ,6H,Directa Centro,Copatra,6230.28149325924
+292,Origen-Destino,95,Villatina Minorista,6H,Directa Centro,Copatra,6712.2021622646
+293,Origen-Destino,103,Sierra Minorista,6H,Directa Centro,Cootransi,12123.0639867501
+294,Origen-Destino,103,Mirlas,6H,Directa Centro,Cootransi,9133.53964866016
+295,Origen-Destino,103,Mirlas Minorista,6H,Directa Centro,Cootransi,12199.1825972274
+296,Origen-Destino,107,Perlas,6H,Directa Centro,Cootransvi,5251.8389616868
+300,Origen-Destino,190,Laureles Parque,8A,Directa Centro,Autobuses Poblado Laureles,8962.18995961927
+301,Origen-Destino,191,Laureles Éxito,8A,Directa Centro,Autobuses Poblado Laureles,11268.3201116933
+302,Origen-Destino,192,Laureles Nogal # 1,8A,Directa Centro,Autobuses Poblado Laureles,7508.65304559935
+297,Origen-Destino,107,San Antonio-Minorista,6H,Directa Centro,Cootransvi,6800.23711095943
+298,Origen-Destino,107,Ratón Pelao,6H,Directa Centro,Cootransvi,4935.77393706912
+299,Origen-Destino,107,San Antonio,6H,Directa Centro,Cootransvi,5972.85699203751
+271,Origen-Destino,091V,Villa Mercedes,6F,Directa Centro,Copatra,6061.36686160321
+272,Origen-Destino,105,Golondrinas,6F,Directa Centro,Cootransmallat,4893.33326158138
+273,Origen-Destino,105,Golondrinas - Minorista,6F,Directa Centro,Cootransmallat,4865.81652691443
+274,Origen-Destino,105,Golondrinas horario especial,6F,Directa Centro,Cootransmallat,10870.8006563818
+275,Origen-Destino,105,Golondrinas horario nocturno,6F,Directa Centro,Cootransmallat,3927.11526381515
+276,Origen-Destino,105,Villa Mercedes,6F,Directa Centro,Cootransmallat,5726.25327303972
+277,Origen-Destino,106,Tres Esquinas,6F,Directa Centro,Cootransmallat,4217.55143658987
+278,Origen-Destino,106,Tres Esquinas - Minorista,6F,Directa Centro,Cootransmallat,7834.70099250852
+279,Origen-Destino,106,Tres Esquinas horario especial,6F,Directa Centro,Cootransmallat,2490.51244281198
+280,Origen-Destino,98 Directa 3,Santa Elena-Las Brisas-Medellín,6G,Directa No Centro,Transacoop,20013.9946928936
+281,Origen-Destino,98 Directa 4,Santa Elena-Perico-Las Brisas-Medellín,6G,Directa No Centro,Transacoop,28814.0790233747
+282,Origen-Destino,98 Directa 6,Santa Elena-Piedras Blancas-Medellín,6G,Directa No Centro,Transacoop,57137.9418266365
+283,Origen-Destino,98 Directa 8,Santa Elena-El Cerro-Las Brisas-Medellín,6G,Directa No Centro,Transacoop,27334.1779897454
+284,Origen-Destino,98 Directa 9,Santa Elena-Piedras Blancas-Las Brisas-Medellín,6G,Directa No Centro,Transacoop,57137.9418266365
+285,Origen-Destino,93,Caicedo La Toma,6H,Directa Centro,Copatra,5484.43864509278
+286,Origen-Destino,93,Caicedo,6H,Directa Centro,Copatra,5739.10278356622
+287,Origen-Destino,93,Caicedo La Toma Minorista,6H,Directa Centro,Copatra,6707.26405344808
+303,Origen-Destino,193,Laureles Nogal # 2,8A,Directa Centro,Autobuses Poblado Laureles,9843.86598451204
+304,Origen-Destino,193i,Estadio-Bolivariana-Laureles,8A,Integrada,Autobuses Poblado Laureles,3276.21280166804
+305,Origen-Destino,193ii,Estadio-Laureles Santa Teresita,8A,Integrada,Autobuses Poblado Laureles,5061.16267128293
+306,Origen-Destino,195,Simón Bolívar-Unicentro-Centro,8A,Directa Centro,Tax Maya,10543.2400576805
+316,Origen-Destino,202i,El Morro-Travesías-Corazón-Santa Lucía,8A,Integrada,Conducciones América,5739.87929730239
+317,Origen-Destino,203 Corazón,Corazón-Oriental,8A,Directa Centro,Conducciones América,9476.3544429099
+318,Origen-Destino,220,San Javier-Eduardo Santos-Oriental,8A,Directa Centro,Conducciones América,8371.53175711794
+319,Origen-Destino,221A,San Javier Derecho-La Caseta-Oriental,8A,Directa Centro,Conducciones América,7865.81260012031
+320,Origen-Destino,221B,San Javier Derecho-Cuatro Esquinas-Oriental,8A,Directa Centro,Conducciones América,7854.84876162107
+321,Origen-Destino,221i,Villa Laura-San Javier,8A,Integrada,Conducciones América,3342.56619585217
+322,Origen-Destino,222,San Javier Niza - Oriental,8A,Directa Centro,Conducciones América,9221.89033162516
+323,Origen-Destino,223,San Javier La Loma-Minorista,8A,Directa Centro,Conducciones América,12572.1778527927
+324,Origen-Destino,225i-1,20 de Julio,8A,Integrada,Metrosan,1459.70895880025
+334,Origen-Destino,240,Floresta Estadio-Oriental,8A,Directa Centro,Conducciones América,10415.2721290659
+335,Origen-Destino,242,La Divisa,8A,Directa Centro,Coonatra,8527.64156667758
+336,Origen-Destino,242,La Quiebra,8A,Directa Centro,Coonatra,7511.8512149237
+325,Origen-Destino,225i-2,Colinas,8A,Integrada,Metrosan,1689.83407836899
+326,Origen-Destino,226i,Salado,8A,Integrada,Metrosan,1838.61243142733
+327,Origen-Destino,226i-D,Depósito,8A,Integrada,Metrosan,1859.46440689669
+328,Origen-Destino,227i-1,Quintas,8A,Integrada,Metrosan,2490.47743694042
+329,Origen-Destino,227i-A,Peñitas,8A,Integrada,Metrosan,2535.57611977219
+330,Origen-Destino,227i-B,Gabriela,8A,Integrada,Metrosan,1619.6561391031
+331,Origen-Destino,227iB-2,Socorro,8A,Integrada,Metrosan,1378.35133232368
+332,Origen-Destino,227i-C,Caseta,8A,Integrada,Metrosan,2265.73420478175
+333,Origen-Destino,228i,Conquistadores,8A,Integrada,Metrosan,1840.23537458034
+307,Origen-Destino,195i,Simón Bolívar-Unicentro-estación Santa Lucía,8A,Integrada,Tax Maya,6670.40479854899
+309,Origen-Destino,200,Barrio Cristóbal-Oriental,8A,Directa Centro,Conducciones América,7078.80797463656
+310,Origen-Destino,201,Éxito Corazón,8A,Directa Centro,Conducciones América,10368.5845244481
+311,Origen-Destino,201,Éxito Corazón,8A,Directa Centro,Conducciones América,9583.15942921517
+312,Origen-Destino,201B,Corazón-Plaza Minorista,8A,Directa Centro,Conducciones América,10098.105444996
+1921,Origen-Destino,195ii,Laureles Campestre-estación Santa Lucía - estación Floresta,8A,Integrada,Tax Maya,3934.04975183234
+314,Origen-Destino,201i,Los Tanques-El Volcán-El Corazón-San Javier,8A,Integrada,Conducciones América,5337.92332044749
+315,Origen-Destino,202,Santa Mónica-Oriental,8A,Directa Centro,Conducciones América,8503.36357358258
+1922,Destino-Origen,195ii,Laureles Campestre-estación Santa Lucía - estación Floresta,8A,Integrada,Tax Maya,4073.82437750245
+351,Destino-Origen,C6-002,Villa Hermosa - Hospital,,Alimentadora,Sistema Alimentador Oriental S.A.S.,8369.23028994565
+352,Destino-Origen,C6-003,Campo Valdés - Hospital,,Alimentadora,Sistema Alimentador Oriental S.A.S.,3908.00661402656
+353,Destino-Origen,C6-004,La Milagrosa - Exposiciones,,Alimentadora,Sistema Alimentador Oriental S.A.S.,7177.33425668082
+354,Destino-Origen,C6-005,Cerros el Vergel - San José,,Alimentadora,Sistema Alimentador Oriental S.A.S.,5080.69869964926
+355,Destino-Origen,C6-005A,Quinta Linda - San José,,Alimentadora,Sistema Alimentador Oriental S.A.S.,5113.79306572733
+356,Destino-Origen,C6-006,Villa Liliam - Alejandro Echavarría,,Alimentadora,Sistema Alimentador Oriental S.A.S.,2310.87685118301
+357,Destino-Origen,C6-007,Buenos Aires - San Antonio,,Alimentadora,Sistema Alimentador Oriental S.A.S.,4012.76476802078
+358,Destino-Origen,C6-008,La Libertad - Prado,,Alimentadora,Sistema Alimentador Oriental S.A.S.,5193.20439727948
+359,Destino-Origen,C6-009,Enciso - Prado,,Alimentadora,Sistema Alimentador Oriental S.A.S.,5192.46508638143
+360,Destino-Origen,C6-010A,Villatina - Alejandro Echavarría,,Alimentadora,Sistema Alimentador Oriental S.A.S.,2633.19460978444
+367,Destino-Origen,C6-018,Santa Cecilia - Tricentenario,,Alimentadora,Sistema Alimentador Oriental S.A.S.,3880.31575942361
+368,Destino-Origen,C6-019,El Raizal - Jardín - Gardel,,Alimentadora,Sistema Alimentador Oriental S.A.S.,1987.18473701089
+369,Destino-Origen,C6-019A,El Raizal - Jardín - Gardel,,Alimentadora,Sistema Alimentador Oriental S.A.S.,2546.99961553602
+370,Destino-Origen,C6-020,San José de la Cima - Universidad,,Alimentadora,Sistema Alimentador Oriental S.A.S.,4861.11575430116
+371,Destino-Origen,C6-021,Granizal - Tricentenario,,Alimentadora,Sistema Alimentador Oriental S.A.S.,4349.20628894992
+361,Destino-Origen,C6-010,Villatina - Parque Berrío,,Alimentadora,Sistema Alimentador Oriental S.A.S.,6562.62035442922
+362,Destino-Origen,C6-011,Popular N° 2 - El Playón - Acevedo,,Alimentadora,Sistema Alimentador Oriental S.A.S.,2053.29206284977
+363,Destino-Origen,C6-012,La Francia - Acevedo,,Alimentadora,Sistema Alimentador Oriental S.A.S.,1959.42688704489
+364,Destino-Origen,C6-013,Popular N° 1 - Tricentenario,,Alimentadora,Sistema Alimentador Oriental S.A.S.,4133.74727089137
+366,Destino-Origen,C6-016,Nuevo Horizonte - Hospital,,Alimentadora,Sistema Alimentador Oriental S.A.S.,16138.726979472
+337,Origen-Destino,243,La Divisa,8A,Directa Centro,Coonatra,10873.0455046392
+338,Origen-Destino,243,La Quiebra,8A,Directa Centro,Coonatra,12780.6717331448
+339,Origen-Destino,243i,Floresta,8A,Integrada,Coonatra,3968.4514344116
+340,Origen-Destino,243iD,Floresta Directa,8A,Integrada,Coonatra,2357.04311513481
+341,Origen-Destino,311i,Calasanz integrada,8A,Integrada,Coonatra,5982.56887428142
+342,Origen-Destino,311i,Calasanz directo integrada,8A,Integrada,Coonatra,5214.45974235939
+343,Origen-Destino,C23,San Cristóbal-San Javier-La Loma-Centro,8A,Directa Centro,Tax Maya,14842.1663162497
+344,Origen-Destino,C23i,San Cristóbal-estación San Javier,8A,Integrada,Tax Maya,9268.35731303158
+346,Origen-Destino,C23i,El Patio-estación San Javier,8A,Integrada,Tax Maya,10704.9151146525
+347,Origen-Destino,C23i,La Palma-estación San Javier,8A,Integrada,Tax Maya,10152.9861021988
+348,Origen-Destino,C23i,Pedregal Bajo-estación San Javier,8A,Integrada,Tax Maya,9193.6142828259
+345,Origen-Destino,C23i,La Asomadera-estación San Javier,8A,Integrada,Tax Maya,5344.05846341233
+349,Origen-Destino,C23i,San Cristóbal-Calle Negra-estación Aurora,8A,Integrada,Tax Maya,6565.01478042446
+372,Destino-Origen,C6-022,La Cruz - Prado,,Alimentadora,Sistema Alimentador Oriental S.A.S.,6860.00987117724
+373,Destino-Origen,C6-023,Santa Lucía - 8 de Marzo - Estación Alejandro Echavarría,,Alimentadora,Sistema Alimentador Oriental S.A.S.,2415.28012884984
+374,Destino-Origen,C6-024,8 de Marzo - Santa Lucía - Estación Alejandro Echavarría,,Alimentadora,Sistema Alimentador Oriental S.A.S.,2523.09521387391
+375,Destino-Origen,C6-025,La Espadera - 8 de Marzo - Oriente,,Alimentadora,Sistema Alimentador Oriental S.A.S.,3211.73997566514
+389,Destino-Origen,C3-008,Rosales - Belén Rincón,,Alimentadora,Masivo de Occidente,4235.51108676963
+390,Destino-Origen,303,Circular derecha 303,Circular Derecha 303,Circular,Coonatra,13051.9828724882
+391,Destino-Origen,286,Circular 286,Circular 286,Circular,Combuses,5016.91568699238
+392,Destino-Origen,302,Circular izquierda 302,Circular Izquierda 302,Circular,Autobuses Poblado Laureles,6468.54271133503
+393,Destino-Origen,313,Terminal del Norte-Terminal del Sur,Circular 313,Circular,Combuses,10788.4917263298
+394,Destino-Origen,300,Circular,"Circular Coonatra 300, 301, 310, 311",Circular,Coonatra,18621.2000925128
+395,Destino-Origen,301,Circular,"Circular Coonatra 300, 301, 310, 311",Circular,Coonatra,8871.37632841281
+396,Destino-Origen,310,Circular,"Circular Coonatra 300, 301, 310, 311",Circular,Coonatra,11124.8135061126
+397,Destino-Origen,311,Circular,"Circular Coonatra 300, 301, 310, 311",Circular,Coonatra,14142.8513554291
+398,Destino-Origen,304,Comercial Hotelera derecha,"Circular 304, 305, 308, 308D, 309, 309D",Circular,Invetrans,28036.2130373537
+399,Destino-Origen,305,Comercial Hotelera izquierda,"Circular 304, 305, 308, 308D, 309, 309D",Circular,Invetrans,7608.13314195798
+400,Destino-Origen,308,Ruta de la Salud derecha,"Circular 304, 305, 308, 308D, 309, 309D",Circular,Coinvetrans,14953.7533137613
+401,Destino-Origen,308D,Ruta de la Salud derecha directa,"Circular 304, 305, 308, 308D, 309, 309D",Circular,Coinvetrans,12934.7211777722
+402,Destino-Origen,309,Ruta de la Salud izquierda,"Circular 304, 305, 308, 308D, 309, 309D",Circular,Coinvetrans,8937.61559981245
+403,Destino-Origen,309D,Ruta de la Salud izquierda directa,"Circular 304, 305, 308, 308D, 309, 309D",Circular,Coinvetrans,7430.53617953768
+404,Destino-Origen,315,Circular 315,Circular 315 Y 316,Circular,Santra,9330.97192587379
+405,Destino-Origen,316,Circular 316,Circular 315 Y 316,Circular,Santra,7874.15311107049
+376,Destino-Origen,C3-001,Santa Gema - La Mota - Aguacatala,,Alimentadora,Masivo de Occidente,7042.68213449668
+377,Destino-Origen,C3-001A,Santa Gema - La Mota - Aguacatala,,Alimentadora,Masivo de Occidente,5005.90358005587
+378,Destino-Origen,C3-002,Aguacatala - Bulerías,,Alimentadora,Masivo de Occidente,7218.57904955302
+379,Destino-Origen,C3-003P,Belén - Piscina - Aula Ambiental,,Alimentadora,Masivo de Occidente,9743.99714288164
+381,Destino-Origen,C3-003RV,Ruta Alimentadora - Cuenca 3,,Alimentadora,Masivo de Occidente,5428.99410243374
+382,Destino-Origen,C3-003,Belén - Manzanillo,,Alimentadora,Masivo de Occidente,5942.46285443594
+383,Destino-Origen,C3-004,Belén Altavista - Los Alpes,,Alimentadora,Masivo de Occidente,6327.11419877732
+384,Destino-Origen,C3-005,Belén Aguas Frías - U de M,,Alimentadora,Masivo de Occidente,5604.933801801
+385,Destino-Origen,C3-006,Las Violetas - Villa Café - U de M,,Alimentadora,Masivo de Occidente,2040.07317802194
+386,Destino-Origen,C3-006A,Ruta Alimentadora - Cuenca 3,,Alimentadora,Masivo de Occidente,1471.88824809296
+387,Destino-Origen,C3-007,Loma de los Bernal - La Palma,,Alimentadora,Masivo de Occidente,5703.96294937116
+388,Destino-Origen,C3-007A,Loma de los Bernal - Aliadas - La Palma,,Alimentadora,Masivo de Occidente,3123.69611376402
+414,Destino-Origen,317 2-1,San Antonio de Prado El Limonar,,Directa Centro,Cootrasana,21556.7729581954
+415,Destino-Origen,317 Aguacatala,317 Aguacatala,,Integrada,Cootrasana,12384.1877770638
+416,Destino-Origen,317 2-1,San Antonio de Prado El Limonar-La Florida,,Directa Centro,Cootrasana,23427.3610925844
+417,Destino-Origen,317 2-1,San Antonio de Prado El Limonar-Pradito,,Directa Centro,Cootrasana,27526.8061751485
+418,Destino-Origen,318i,San Antonio de Prado estación Sabaneta,,Integrada,Cootrasana,16645.5466934878
+419,Destino-Origen,318ii,San Antonio de Prado estación La Estrella,,Integrada,Cootrasana,6861.85335771965
+420,Destino-Origen,318B,San Antonio de Prado,,Directa Centro,Cootrasana,18570.8689634528
+421,Destino-Origen,318B,San Antonio de Prado bus Barichara-Limonar,,Directa Centro,Cootrasana,31271.514897965
+422,Destino-Origen,318B,San Antonio de Prado bus La Verde-Los Rieles,,Directa Centro,Cootrasana,18570.8689634528
+423,Destino-Origen,318M,San Antonio de Prado micro,,Directa Centro,Cootrasana,20499.020370128
+424,Destino-Origen,319B,San Antonio de Prado,,Directa Centro,Cootrasana,20440.2188543073
+427,Destino-Origen,319i,San Antonio de Prado El Vergel estación Sabaneta,,Integrada,Cootrasana,7910.39657080282
+428,Destino-Origen,Ruta 1,Barichara - Pradito,,Directa No Centro,Cootrasana,4534.54785940272
+429,Destino-Origen,Ruta 10,Integrada El Vergel,,Directa No Centro,Cootrasana,2938.05191491197
+430,Destino-Origen,Ruta 11,Villa Loma,,Directa No Centro,Cootrasana,1804.4387468639
+431,Destino-Origen,Ruta 12,El Salado,,Directa No Centro,Cootrasana,5704.01528786566
+425,Destino-Origen,319B,San Antonio de Prado El Vergel-Naranjito bus,,Directa Centro,Cootrasana,22580.3723903665
+426,Destino-Origen,319M,San Antonio de Prado El Vergel micro,,Directa Centro,Cootrasana,20579.5455841589
+407,Destino-Origen,140,Guayabal Cristo Rey N°1,,Directa Centro,Translamaya,7136.76767944647
+408,Destino-Origen,141,Guayabal La Raya,,Directa Centro,Translamaya,11294.68960104
+409,Destino-Origen,142,Guayabal Viviendas del Sur,,Directa Centro,Translamaya,10222.1013376001
+410,Destino-Origen,143,La Colinita,,Directa,Translamaya,9969.24891617559
+411,Destino-Origen,143i,Aeropuerto Terminal del Sur-Mota-Metro,,Integrada,Translamaya,10986.8905998442
+412,Destino-Origen,317i,Limonar estación Itagüí,,Integrada,Cootrasana,8911.63638508371
+413,Destino-Origen,317 1-2,San Antonio de Prado El Limonar,,Directa Centro,Cootrasana,21929.4637439241
+432,Destino-Origen,Ruta 13,Montañita,,Directa No Centro,Cootrasana,4845.45747421551
+433,Destino-Origen,160,Trinidad-Parque Berrío,,Directa Centro,Coometropol,6924.05405733562
+434,Destino-Origen,160i,Terminal del Sur estación Industriales,,Integrada,Coometropol,2866.21976862457
+435,Destino-Origen,161,Trinidad-Parque Berrío-Minorista,,Directa Centro,Coometropol,7091.0799252191
+436,Destino-Origen,Ruta 2,Pradito - Barichara,,Directa No Centro,Cootrasana,5389.58842707696
+437,Destino-Origen,Ruta 3,Pradito - Vergel,,Directa No Centro,Cootrasana,4464.25031649477
+452,Destino-Origen,246ii,Blanquizal integrada,2A,Integrada,Cootransblan,4394.6696047523
+453,Destino-Origen,250AiP,Pajarito integrada,2A,Integrada,Palenque Robledal,1819.50333289597
+454,Destino-Origen,250Aii,Tulipanes La Huerta integrada,2A,Integrada,Palenque Robledal,2783.24460853841
+455,Destino-Origen,250R,Robledales,2A,Directa Centro,Palenque Robledal,9632.4207941091
+456,Destino-Origen,250iVF,Villa Flora integrada,2A,Integrada,Palenque Robledal,6138.07822329552
+457,Destino-Origen,250iR,Robledal integrada,2A,Integrada,Palenque Robledal,8440.51797257304
+460,Destino-Origen,250M,Moravia,2A,Integrada,Palenque Robledal,10882.8284856799
+461,Destino-Origen,250AP,Pajarito,2A,Directa Centro,Palenque Robledal,13261.6441317
+462,Destino-Origen,251,Margaritas,2A,Directa Centro,Palenque Robledal,10221.6943229068
+458,Destino-Origen,250VF,Robledo Villa Flora,2A,Directa Centro,Palenque Robledal,9704.9698257595
+459,Destino-Origen,250AH,La Huerta,2A,Directa Centro,Palenque Robledal,11059.4711552157
+438,Destino-Origen,Ruta 4,Vergel - Pradito,,Directa No Centro,Cootrasana,4154.68150675707
+439,Destino-Origen,Ruta 5,Florida A,,Directa No Centro,Cootrasana,4434.34800774046
+440,Destino-Origen,Ruta 6,Veredal,,Directa No Centro,Cootrasana,940.487162249129
+441,Destino-Origen,Ruta 7,Naranjitos,,Directa No Centro,Cootrasana,4783.74049402133
+442,Destino-Origen,Ruta 8VC,La Verde - Las Camelias,,Directa No Centro,Cootrasana,1249.58315037955
+443,Destino-Origen,Ruta 8VR,La Verde - Los Rieles,,Directa No Centro,Cootrasana,834.010841853498
+444,Destino-Origen,Ruta 9,Horizontes,,Directa No Centro,Cootrasana,2567.84156476114
+445,Destino-Origen,246,Blanquizal,2A,Directa Centro,Cootransblan,8202.75863188318
+447,Destino-Origen,246D,Blanquizal Calazanía directa,2A,Directa Centro,Cootransblan,9147.01839554075
+1281,Origen-Destino,85,La Cruz,6D,Directa Centro,,7918.53610158688
+449,Destino-Origen,246C,Blanquizal Calazanía,2A,Directa Centro,Cootransblan,7372.11416769774
+451,Destino-Origen,246i,Blanquizal integrada,2A,Integrada,Cootransblan,5074.22819252286
+669,Destino-Origen,221B,San Javier Derecho-Cuatro Esquinas-Oriental,8A,Directa Centro,Conducciones América,8794.68653231724
+670,Destino-Origen,221i,Villa Laura-San Javier,8A,Integrada,Conducciones América,3332.13782799096
+671,Destino-Origen,222,San Javier Niza - Oriental,8A,Directa Centro,Conducciones América,11602.7035523114
+516,Destino-Origen,Anillo 1 Carrera 65,Carabobo - Av. de Greiff,2B,Directa Centro,Transporte Medellín Castilla,8389.62505491771
+517,Destino-Origen,Anillo 3AH Carrera 65,Alpujarra - Oriental sentido antihorario,2B,Directa Centro,Transporte Medellín Castilla,8869.37962503172
+518,Destino-Origen,Anillo 3H Carrera 65,Alpujarra - Oriental sentido horario,2B,Directa Centro,Transporte Medellín Castilla,10228.6881030247
+564,Destino-Origen,099 Horario Esp,Cerros de Quintalinda,6A,Directa Centro,Coopcerquin,8582.4004581406
+566,Destino-Origen,102,Ávila-Iglesia Cataluña,6A,Directa Centro,Cootranscataluña,8004.73031079679
+612,Destino-Origen,69,El Jardín,6E,Directa Centro,Coopetransa ,8726.96953554674
+613,Destino-Origen,87,Pinar Torres,6F,Directa Centro,Cootranspinal,7228.20315947322
+614,Destino-Origen,087 Horario Esp,Pinar Torres horario esp,6F,Directa Centro,Cootranspinal,6250.17301882047
+615,Destino-Origen,88,Pinar Torres,6F,Directa Centro,Cootranspinal,6274.7755066238
+672,Destino-Origen,223,San Javier La Loma-Minorista,8A,Directa Centro,Conducciones América,11379.8015291141
+673,Destino-Origen,225i-1,20 de Julio,8A,Integrada,Metrosan,1625.61891778234
+674,Destino-Origen,225i-2,Colinas,8A,Integrada,Metrosan,1804.83773844551
+675,Destino-Origen,226i,Salado,8A,Integrada,Metrosan,2202.23897659981
+676,Destino-Origen,226i-D,Depósito,8A,Integrada,Metrosan,2200.37444003809
+519,Destino-Origen,Anillo 3H Carrera 65 Horario Esp,Alpujarra - Oriental sentido horario,2B,Directa Centro,Transporte Medellín Castilla,11890.8574064629
+520,Destino-Origen,Anillo F1 Carrera 65,Av. Greiff - Puente Horacio Toro,2B,Directa Centro,Transporte Medellín Castilla,8626.7533947329
+521,Destino-Origen,Anillo F2 Carrera 65,Av. Regional - San Diego,2B,Directa Centro,Transporte Medellín Castilla,11626.5050984239
+568,Destino-Origen,102A,Pablo Escobar-Cataluña,6A,Directa No Centro,Cootranscataluña,5194.77322532613
+571,Destino-Origen,111,El Salvador derecho,6A,Directa Centro,Flota la Milagrosa,8059.63120524302
+616,Destino-Origen,90,Pinal,6F,Directa Centro,Copatra,7763.69559482097
+617,Destino-Origen,91,Alcázares de Sucre,6F,Directa Centro,Copatra,8306.43640214668
+618,Destino-Origen,91,Llanadas,6F,Directa Centro,Copatra,6850.8962366883
+469,Destino-Origen,255A,Nuevo Occidente-Las Flores,2A,Directa Centro,Rápido San Cristóbal,14562.4807106178
+470,Destino-Origen,255D,San Cristóbal -Conexión vial,2A,Directa Centro,Rápido San Cristóbal,10857.3253399784
+471,Destino-Origen,255,San Cristóbal - Doña María,2A,Directa Centro,Rápido San Cristóbal,12517.1515979314
+472,Destino-Origen,255i,Metrocable Aurora-Cárcel,2A,Integrada,Rápido San Cristóbal,4861.07300246716
+522,Destino-Origen,Anillo F3 Carrera 65,Parque Los Periodistas,2B,Directa Centro,Transporte Medellín Castilla,9558.70126577903
+523,Destino-Origen,Anillo 1 Carrera 73,Carabobo - Av. Greiff,2B,Directa Centro,Transporte Medellín Castilla,6893.55285383102
+524,Destino-Origen,Anillo 2 Carrera 73,El Hueco - Parque Berrío,2B,Directa Centro,Transporte Medellín Castilla,6961.24220410056
+573,Destino-Origen,111,Quintas del Salvador,6A,Directa Centro,Flota la Milagrosa,8067.91600058268
+619,Destino-Origen,091F,El Faro,6F,Directa Centro,Copatra,6506.85632354683
+620,Destino-Origen,091V,Villa Mercedes,6F,Directa Centro,Copatra,6389.5936593307
+621,Destino-Origen,105,Golondrinas,6F,Directa Centro,Cootransmallat,5730.07372559461
+622,Destino-Origen,105,Golondrinas - Minorista,6F,Directa Centro,Cootransmallat,9378.93990898706
+473,Destino-Origen,255iD,Metrocable La Aurora,2A,Integrada,Rápido San Cristóbal,6989.91713381412
+474,Destino-Origen,255P,Palmitas-Centro,2A,Directa Centro,Rápido San Cristóbal,11447.3314165274
+525,Destino-Origen,Anillo 3ah Carrera 73,Alpujarra - Oriental sentido antihorario,2B,Directa Centro,Transporte Medellín Castilla,7373.30742394496
+526,Destino-Origen,Anillo 3h Carrera 73,Alpujarra - Oriental sentido horario,2B,Directa Centro,Transporte Medellín Castilla,8732.61590193783
+527,Destino-Origen,Anillo F1 Carrera 73,Av. Greiff - Puente Horacio Toro,2B,Directa Centro,Transporte Medellín Castilla,6310.46451765993
+528,Destino-Origen,Anillo F3 Carrera 73,Parque Los Periodistas,2B,Directa Centro,Transporte Medellín Castilla,8744.26224925866
+575,Destino-Origen,112,Las Palmas,6A,Directa Centro,Copatra,4514.72674020519
+577,Destino-Origen,113M,Pablo E.,6A,Directa Centro,Flota la Milagrosa,4316.87350828223
+578,Destino-Origen,113,Ávila - Cataluña,6A,Directa Centro,Flota la Milagrosa,8785.48589518002
+623,Destino-Origen,105,Golondrinas horario especial,6F,Directa Centro,Cootransmallat,5306.21327787736
+624,Destino-Origen,105,Golondrinas horario nocturno,6F,Directa Centro,Cootransmallat,6802.11327576369
+625,Destino-Origen,105,Villa Mercedes,6F,Directa Centro,Cootransmallat,6565.55786425114
+626,Destino-Origen,106,Tres Esquinas,6F,Directa Centro,Cootransmallat,5752.8785696595
+475,Destino-Origen,255V1 ,Vereda El Llano - Parque San Cristóbal,2A,Directa No Centro,Rápido San Cristóbal,3418.05716665673
+476,Destino-Origen,255V1D,San Sebastián Palmitas Centro,2A,Directa No Centro,Rápido San Cristóbal,21834.2934032664
+477,Destino-Origen,255V2,Vereda Yolombó - Parque San Cristóbal,2A,Directa No Centro,Rápido San Cristóbal,7602.80312674337
+478,Destino-Origen,255V3 ,Derecha Vereda Boquerón - Parque San Cristóbal,2A,Directa No Centro,Rápido San Cristóbal,7379.94143735618
+479,Destino-Origen,255V3,Izquierda Vereda Boquerón - Parque San Cristóbal,2A,Directa No Centro,Rápido San Cristóbal,12821.3487780455
+480,Destino-Origen,255A,Nuevo Occidente El Tirol,2A,Directa Centro,Rápido San Cristóbal,15023.7038812382
+481,Destino-Origen,255A,Las Flores-Moravia-Centro,2A,Directa Centro,Rápido San Cristóbal,16981.1910481951
+482,Destino-Origen,260CL,Clínica,2A,Directa Centro,Palenque Robledal,8947.26138019547
+529,Destino-Origen,170,Belén Las Playas,3A,Directa Centro,Cootrabel,14409.4991819222
+580,Destino-Origen,2,Santa Rita -Zamora,6B,Directa Centro,Combuses,11907.4581680289
+581,Destino-Origen,6,La Francia,6B,Directa Centro,Transconor,8565.54000606496
+627,Destino-Origen,106,Tres Esquinas - Minorista,6F,Directa Centro,Cootransmallat,5752.8785696595
+628,Destino-Origen,106,Tres Esquinas horario especial,6F,Directa Centro,Cootransmallat,4945.01754339217
+629,Destino-Origen,98 Directa 3,Santa Elena-Las Brisas-Medellín,6G,Directa No Centro,Transacoop,35576.495601675
+630,Destino-Origen,98 Directa 4,Santa Elena-Perico-Las Brisas-Medellín,6G,Directa No Centro,Transacoop,34064.3361756147
+631,Destino-Origen,98 Directa 6,Santa Elena-Piedras Blancas-Medellín,6G,Directa No Centro,Transacoop,34064.3361756147
+632,Destino-Origen,98 Directa 8,Santa Elena-El Cerro-Las Brisas-Medellín,6G,Directa No Centro,Transacoop,34064.3361756147
+633,Destino-Origen,98 Directa 9,Santa Elena-Piedras Blancas-Las Brisas-Medellín,6G,Directa No Centro,Transacoop,19948.6670140105
+634,Destino-Origen,93,Caicedo La Toma,6H,Directa Centro,Copatra,5676.21009275797
+635,Destino-Origen,93,Caicedo,6H,Directa Centro,Copatra,5829.94892043151
+483,Destino-Origen,260C,Córdoba,2A,Directa Centro,Palenque Robledal,7536.41541517638
+484,Destino-Origen,260i,Seminario integrada,2A,Integrada,Palenque Robledal,6780.95625381395
+485,Destino-Origen,260BR,Brisas,2A,Directa Centro,Palenque Robledal,8286.38242154172
+531,Destino-Origen,172,Belén La Gloria,3A,Directa Centro,Cootrabel,13383.9413619343
+582,Destino-Origen,22,Santa Cruz - Terminal,6B,Directa Centro,Transporte Aranjuez Santa Cruz,9236.84831776355
+584,Destino-Origen,23,Popular N° 1,6B,Directa Centro,Transporte Aranjuez Santa Cruz,9438.41622166405
+636,Destino-Origen,93,Caicedo La Toma Minorista,6H,Directa Centro,Copatra,6858.1523971114
+637,Destino-Origen,94,Santa Lucía,6H,Directa Centro,Copatra,10349.6241717278
+638,Destino-Origen,95,Perlas,6H,Directa Centro,Copatra,7543.29168826
+486,Destino-Origen,260T,Torres,2A,Directa Centro,Palenque Robledal,7843.1238251252
+487,Destino-Origen,267,Éxito,2A,Directa Centro,Palenque Robledal,11342.0464412589
+533,Destino-Origen,178,Belén La Nubia,3A,Directa Centro,Cootrabel,12937.2181376742
+585,Destino-Origen,24,Playón de los Comuneros,6B,Directa Centro,Transporte Aranjuez Santa Cruz,10750.9324503354
+586,Destino-Origen,24,Playón de los Comuneros - Oriental,6B,Directa Centro,Transporte Aranjuez Santa Cruz,9742.36556801221
+639,Destino-Origen,95,Perlas Minorista,6H,Directa Centro,Copatra,10095.6574131848
+640,Destino-Origen,95,Villatina  ,6H,Directa Centro,Copatra,7187.8450574832
+488,Destino-Origen,285,Doce de Octubre,2A,Directa Centro,Palenque Robledal,9808.01626058242
+489,Destino-Origen,288,Doce de Octubre,2A,Directa Centro,Transporte Medellín Castilla ,9780.77697680486
+490,Destino-Origen,255V,Vereda La Suiza-La Frisola-La Guayabala-La Volcana,2A,Directa No Centro,Rápido San Cristóbal,9603.4887523391
+491,Destino-Origen,255V,Vereda La Aldea,2A,Directa No Centro,Rápido San Cristóbal,5244.99774730416
+535,Destino-Origen,130,Poblado Parque directa,5A,Directa Centro,Autobuses Poblado Laureles,7152.3410098213
+536,Destino-Origen,130A,Poblado Parque alterna,5A,Directa Centro,Autobuses Poblado Laureles,6779.05762233773
+537,Destino-Origen,130i,Industriales - Aguacatala,5A,Integrada,Autobuses Poblado Laureles,5594.46397631791
+538,Destino-Origen,132,Poblado Éxito directa,5A,Directa Centro,Autobuses Poblado Laureles,10230.4222910531
+588,Destino-Origen,041D,Aranjuez anillo derecha,6B,Directa Centro,Transporte Aranjuez Santa Cruz ,7055.85399720047
+589,Destino-Origen,041I,Aranjuez anillo izquierda,6B,Directa Centro,Transporte Aranjuez Santa Cruz ,8360.49255367277
+641,Destino-Origen,95,Villatina Minorista,6H,Directa Centro,Copatra,9740.21078240798
+642,Destino-Origen,103,Sierra Minorista,6H,Directa Centro,Cootransi,11952.8779053193
+643,Destino-Origen,103,Mirlas,6H,Directa Centro,Cootransi,10028.5752245677
+644,Destino-Origen,103,Mirlas Minorista,6H,Directa Centro,Cootransi,12028.996515797
+645,Destino-Origen,107,Perlas,6H,Directa Centro,Cootransvi,7008.89274693478
+646,Destino-Origen,107,San Antonio-Minorista,6H,Directa Centro,Cootransvi,12242.3877385711
+492,Destino-Origen,261A,Alfonso López - Viejo Terminal,2B,Directa Centro,Transporte Medellín Castilla ,9947.31918070502
+493,Destino-Origen,254i,Pilarica integrada,2B,Integrada,Transporte Medellín Castilla ,5729.08269697658
+494,Destino-Origen,254iB,Pilarica,2B,Integrada,Transporte Medellín Castilla ,5046.45694171636
+539,Destino-Origen,132A,Poblado Éxito alterna,5A,Directa Centro,Autobuses Poblado Laureles,10230.4222910531
+540,Destino-Origen,132i,"La Visitación, Oviedo, U. Eafit",5A,Integrada,Autobuses Poblado Laureles,4567.61639036194
+541,Destino-Origen,132iA,"La Visitación, Oviedo, U. Eafit alterna",5A,Integrada,Autobuses Poblado Laureles,5516.18559008393
+542,Destino-Origen,132ii,Aguacatala - Poblado - Av. 34,5A,Integrada,Autobuses Poblado Laureles,5356.8752626536
+590,Destino-Origen,42,Aranjuez intermedia,6B,Directa Centro,Transporte Aranjuez Santa Cruz,9996.78256008133
+591,Destino-Origen,031 P-C,Popular Centro,6C,Directa Centro,Expreso Campo Valdés,11066.1254550157
+647,Destino-Origen,107,Ratón Pelao,6H,Directa Centro,Cootransvi,6692.82772231702
+648,Destino-Origen,107,San Antonio,6H,Directa Centro,Cootransvi,7157.19328798108
+495,Destino-Origen,261,Alfonso López Calle 94,2B,Directa Centro,Transporte Medellín Castilla ,10215.2359204299
+496,Destino-Origen,261i Der,Derecha Castilla - Estación Universidad,2B,Integrada,Transporte Medellín Castilla ,5837.51383770642
+497,Destino-Origen,261i Izq,Izquierda Castilla - Estación Universidad,2B,Integrada,Transporte Medellín Castilla ,6936.62841765565
+498,Destino-Origen,261ii,Estación Tricentenario,2B,Integrada,Transporte Medellín Castilla ,5242.59511364461
+543,Destino-Origen,133,Poblado San Lucas directa,5A,Directa Centro,Autobuses Poblado Laureles,9968.33354699775
+544,Destino-Origen,133D,San Lucas directa,5A,Directa Centro,Autobuses Poblado Laureles,9758.92775194193
+592,Destino-Origen,031 P-F,Popular Ferrocarril,6C,Directa Centro,Expreso Campo Valdés,11398.5306903439
+593,Destino-Origen,031 P-SD,Popular Centro San Diego,6C,Directa Centro,Expreso Campo Valdés,11865.3144056463
+649,Destino-Origen,190,Laureles Parque,8A,Directa Centro,Autobuses Poblado Laureles,9450.60934780299
+650,Destino-Origen,191,Laureles Éxito,8A,Directa Centro,Autobuses Poblado Laureles,8816.65383792121
+651,Destino-Origen,192,Laureles Nogal # 1,8A,Directa Centro,Autobuses Poblado Laureles,7636.16318808574
+499,Destino-Origen,263,12 de Octubre - Calle 90,2B,Directa Centro,Transporte Medellín Castilla ,10180.4182054522
+1282,Destino-Origen,85,La Cruz,6D,Directa Centro,,6317.0467651359
+501,Destino-Origen,263i,12 de Octubre - Estación Tricentenario,2B,Integrada,Transporte Medellín Castilla ,4226.58771580344
+502,Destino-Origen,263ii,12 de Octubre - Estación Tricentenario,2B,Integrada,Transporte Medellín Castilla ,750.789827162112
+545,Destino-Origen,133i,San Lucas,5A,Integrada,Autobuses Poblado Laureles,8048.46639058565
+546,Destino-Origen,133ii,"Campestre, ISA, Loma de Los González",5A,Integrada,Autobuses Poblado Laureles,5376.18894242316
+547,Destino-Origen,133iiA,Balsos La Y,5A,Integrada,Autobuses Poblado Laureles,6058.1285956838
+595,Destino-Origen,37 - 39,Hueco,6C,Directa Centro,Autocol,10721.5237507773
+652,Destino-Origen,193,Laureles Nogal # 2,8A,Directa Centro,Autobuses Poblado Laureles,9914.90223044726
+653,Destino-Origen,193i,Estadio-Bolivariana-Laureles,8A,Integrada,Autobuses Poblado Laureles,2536.0987268626
+654,Destino-Origen,193ii,Estadio-Laureles Santa Teresita,8A,Integrada,Autobuses Poblado Laureles,7650.22890325655
+655,Destino-Origen,195,Simón Bolívar-Unicentro-Centro,8A,Directa Centro,Tax Maya,9277.68084249913
+503,Destino-Origen,265,Castillita,2B,Directa Centro,Transporte Medellín Castilla ,8181.96355680851
+504,Destino-Origen,270i,Gratamira-Estación Acevedo,2B,Integrada,Transporte Medellín Castilla ,3089.18987092242
+505,Destino-Origen,280,Santander - Carrera 73,2B,Directa Centro,Transporte Medellín Castilla ,10533.8802959289
+548,Destino-Origen,134,Poblado - El Tesoro - La Chacona,5A,Directa Centro,Autobuses Poblado Laureles,10803.8788983649
+549,Destino-Origen,134i,La Y,5A,Integrada,Autobuses Poblado Laureles,8311.65302082123
+596,Destino-Origen,37 - 39,Ferrocarril Minorista,6C,Directa Centro,Autocol,11841.8820852184
+597,Destino-Origen,37 - 39,Villanueva,6C,Directa Centro,Autocol,9944.31041466365
+656,Destino-Origen,195i,Simón Bolívar-Unicentro-estación Santa Lucía,8A,Integrada,Tax Maya,7209.93126056135
+658,Destino-Origen,200,Barrio Cristóbal-Oriental,8A,Directa Centro,Conducciones América,8554.00455653635
+506,Destino-Origen,280 Directa,Santander - Carrera 73,2B,Directa Centro,Transporte Medellín Castilla ,9375.32118798584
+507,Destino-Origen,281,Florencia,2B,Directa Centro,Transporte Medellín Castilla ,9668.53623081749
+550,Destino-Origen,134iA,"CES, Chuscalito, Chacaltaya",5A,Integrada,Autobuses Poblado Laureles,12504.8655878418
+551,Destino-Origen,134Y,Poblado - El Tesoro - La Y,5A,Directa Centro,Autobuses Poblado Laureles,14373.2275536297
+552,Destino-Origen,135,Poblado Campestre,5A,Directa Centro,Autobuses Poblado Laureles,9196.02672997216
+598,Destino-Origen,51-52 CV-C,Campo Valdés Centro,6C,Directa Centro,Expreso Campo Valdés,16280.9945827717
+599,Destino-Origen,51-52 CV-SD,Campo Valdés San Diego,6C,Directa Centro,Expreso Campo Valdés,9224.55169004211
+601,Destino-Origen,080 V-M,Villa Hermosa - La Mansión,6D,Directa Centro,Flota Nueva Villa,8316.45169502739
+659,Destino-Origen,201,Éxito Corazón,8A,Directa Centro,Conducciones América,10933.6471331609
+660,Destino-Origen,201,Éxito Corazón,8A,Directa Centro,Conducciones América,12054.4596981616
+661,Destino-Origen,201B,Corazón-Plaza Minorista,8A,Directa Centro,Conducciones América,13070.8681212778
+508,Destino-Origen,282,Doce de Octubre - HPTU,2B,Directa Centro,Transporte Medellín Castilla ,9946.01004013004
+509,Destino-Origen,283,Barrio Nuevo - Carrera 70,2B,Directa Centro,Transporte Medellín Castilla ,9697.08829281429
+510,Destino-Origen,283i,Florencia-estación Acevedo,2B,Integrada,Transporte Medellín Castilla ,3863.43891984448
+554,Destino-Origen,135i,Los Yarumos San Lucas,5A,Integrada,Autobuses Poblado Laureles,5521.06570812237
+555,Destino-Origen,135ii,Patio Bonito,5A,Integrada,Autobuses Poblado Laureles,2958.49764624199
+556,Destino-Origen,136,San Lucas - Las Palmas,5A,Directa Centro,Autobuses Poblado Laureles,12241.8317232469
+557,Destino-Origen,136A,Colinas del Viento - La Isla,5A,Directa Centro,Autobuses Poblado Laureles,4859.63619654737
+602,Destino-Origen,080 V-O,Villa Hermosa - La Mansión-Directa Oriental,6D,Directa Centro,Flota Nueva Villa,7241.22469756942
+603,Destino-Origen,81,Villa Hermosa - Derecho,6D,Directa Centro,Flota Nueva Villa,6298.42617550114
+604,Destino-Origen,082 V-LA,Villa Hermosa - Los Ángeles,6D,Directa Centro,Flota Nueva Villa,7091.81373255984
+605,Destino-Origen,082 V-LAD,Villa Hermosa - Los Ángeles - Directa,6D,Directa Centro,Flota Nueva Villa,7063.69873819216
+663,Destino-Origen,201i,Los Tanques-El Volcán-El Corazón-San Javier,8A,Integrada,Conducciones América,5498.4882361533
+664,Destino-Origen,202,Santa Mónica-Oriental,8A,Directa Centro,Conducciones América,9601.79269458478
+665,Destino-Origen,202i,El Morro-Travesías-Corazón-Santa Lucía,8A,Integrada,Conducciones América,6293.01519929743
+511,Destino-Origen,284,Barrio Nuevo - Carrera 74,2B,Directa Centro,Transporte Medellín Castilla ,10353.788372389
+512,Destino-Origen,289,Pilarica Calle 96,2B,Directa Centro,Transporte Medellín Castilla ,11321.2075859851
+513,Destino-Origen,306A,Izquierda - Circular Noroccidental,2B,Integrada,Transporte Medellín Castilla ,8501.8482162279
+558,Destino-Origen,136ii,Las Palmas - CES,5A,Integrada,Autobuses Poblado Laureles,5013.95503314538
+559,Destino-Origen,287,Terminal de Transporte Norte,5A,Directa Centro,Autobuses Poblado Laureles,5289.69183224179
+606,Destino-Origen,85,La Honda,6D,Directa Centro,Cootracovi,7966.14058351389
+607,Destino-Origen,55,El Pinar,6E,Directa Centro,Cootranscol,12353.176801399
+608,Destino-Origen,055P,El Pinar Periférica,6E,Directa Centro,Cootranscol,23255.4088260099
+609,Destino-Origen,56,La Esperanza,6E,Directa Centro,Cootranscol,9506.34750258788
+610,Destino-Origen,57,Bello Oriente,6E,Directa Centro,Coopetransa,13008.2675801767
+611,Destino-Origen,60,Santo Domingo,6E,Directa Centro,Cootranscol,7572.2008414458
+666,Destino-Origen,203 Corazón,Corazón-Oriental,8A,Directa Centro,Conducciones América,10482.7332818699
+667,Destino-Origen,220,San Javier-Eduardo Santos-Oriental,8A,Directa Centro,Conducciones América,8872.63145236131
+668,Destino-Origen,221A,San Javier Derecho-La Caseta-Oriental,8A,Directa Centro,Conducciones América,9762.90918853141
+514,Destino-Origen,306B,Derecha - Circular Noroccidental,2B,Integrada,Transporte Medellín Castilla ,7033.67916566658
+515,Destino-Origen,402,Transversal Occidental,2B,Directa Centro,Transporte Medellín Castilla ,9808.12262833079
+562,Destino-Origen,97,Quintalinda-El Vergel,6A,Directa No Centro,Flota la V,8225.66339374777
+563,Destino-Origen,99,Cerros de Quintalinda,6A,Directa Centro,Coopcerquin,7722.12959499071
+463,Destino-Origen,252,Kennedy,2A,Directa Centro,Palenque Robledal,9817.95992280428
+464,Destino-Origen,253D,Aures derecha,2A,Directa Centro,Palenque Robledal,8336.24550024677
+465,Destino-Origen,253I,Aures izquierda,2A,Directa Centro,Palenque Robledal,8498.53709538222
+466,Destino-Origen,253iA,Robledo Aures integrada,2A,Integrada,Palenque Robledal,7183.41523417214
+467,Destino-Origen,253iAR,Robledo Aures integrada Ramal,2A,Integrada,Palenque Robledal,6759.68359809854
+468,Destino-Origen,254,Picacho,2A,Directa Centro,Transporte Medellín Castilla ,10027.0087898621
+677,Destino-Origen,227i-1,Quintas,8A,Integrada,Metrosan,2672.78235814462
+678,Destino-Origen,227i-A,Peñitas,8A,Integrada,Metrosan,2850.5871840167
+679,Destino-Origen,227i-B,Gabriela,8A,Integrada,Metrosan,1543.8836535093
+680,Destino-Origen,227iB-2,Socorro,8A,Integrada,Metrosan,1635.71472478216
+681,Destino-Origen,227i-C,Caseta,8A,Integrada,Metrosan,2540.69487207687
+682,Destino-Origen,228i,Conquistadores,8A,Integrada,Metrosan,2033.96518552661
+683,Destino-Origen,240,Floresta Estadio-Oriental,8A,Directa Centro,Conducciones América,10317.3939133748
+684,Destino-Origen,242,La Divisa,8A,Directa Centro,Coonatra,11405.9249682732
+685,Destino-Origen,242,La Quiebra,8A,Directa Centro,Coonatra,10362.3543021359
+686,Destino-Origen,243,La Divisa,8A,Directa Centro,Coonatra,13161.8214782309
+687,Destino-Origen,243,La Quiebra,8A,Directa Centro,Coonatra,9194.83423183411
+688,Destino-Origen,243i,Floresta,8A,Integrada,Coonatra,3145.38197448811
+689,Destino-Origen,243iD,Floresta Directa,8A,Integrada,Coonatra,2720.96629005348
+690,Destino-Origen,311i,Calasanz integrada,8A,Integrada,Coonatra,6730.17334923608
+691,Destino-Origen,311i,Calasanz directo integrada,8A,Integrada,Coonatra,5976.3582907615
+692,Destino-Origen,C23,San Cristóbal-San Javier-La Loma-Centro,8A,Directa Centro,Tax Maya,16942.3828335457
+693,Destino-Origen,C23i,San Cristóbal-estación San Javier,8A,Integrada,Tax Maya,10778.176503143
+694,Destino-Origen,C23i,La Asomadera-estación San Javier,8A,Integrada,Tax Maya,6311.99656649919
+695,Destino-Origen,C23i,El Patio-estación San Javier,8A,Integrada,Tax Maya,11797.5365382253
+696,Destino-Origen,C23i,La Palma-estación San Javier,8A,Integrada,Tax Maya,11211.3034885463
+697,Destino-Origen,C23i,Pedregal Bajo-estación San Javier,8A,Integrada,Tax Maya,10183.4651110115
+698,Destino-Origen,C23i,San Cristóbal-Calle Negra-estación Aurora,8A,Integrada,Tax Maya,6815.78038689101
+699,Origen-Destino,136i,Castropol - Colegio Latino,5A,Integrada,Autobuses Poblado Laureles,7874.96251804674
+700,Origen-Destino,96,Buenos Aires,6A,Directa Centro,Flota la V,10198.2824317511
+701,Origen-Destino,096 Horario Esp,Buenos Aires,6A,Directa Centro,Flota la V,10198.2824317511
+702,Origen-Destino,102D,Ávila-Iglesia Cataluña,6A,Directa Centro,Cootranscataluña,11492.1446341797
+705,Origen-Destino,51-52 CV-F,Campo Valdés Ferrocarril,6C,Directa Centro,Expreso Campo Valdés,5582.05175384698
+706,Origen-Destino,51-52 CV-O,Campo Valdés Oriental,6C,Directa Centro,Expreso Campo Valdés,5855.14237101207
+118,Origen-Destino,253iAR,Robledo Aures integrada Ramal,2A,Integrada,Palenque Robledal,7989.62229493219
+350,Destino-Origen,C6-001,Zamora - Acevedo,,Alimentadora,Sistema Alimentador Oriental S.A.S.,2921.62269830635
+365,Destino-Origen,C6-015,Granizal - Hospital,,Alimentadora,Sistema Alimentador Oriental S.A.S.,5118.06137422442
+707,Origen-Destino,080 V-33,Villa Hermosa - La Mansión-Directa La 33,6D,Directa Centro,Flota Nueva Villa,6606.29298834858
+708,Origen-Destino,105,El Faro,6F,Directa Centro,Cootransmallat,5993.79071170234
+709,Origen-Destino,98 Directa 1,Santa Elena-Mazo-Las Brisas-Medellín,6G,Directa No Centro,Transacoop,53652.090502607
+710,Origen-Destino,98 Directa 2,Santa Elena-Barro Blanco-Las Brisas-Medellín,6G,Directa No Centro,Transacoop,44264.3926782737
+711,Origen-Destino,98 Directa 5,Santa Elena-El Plan-Las Brisas-Medellín,6G,Directa No Centro,Transacoop,35133.82453253
+712,Origen-Destino,98 Directa 7,Santa Elena-Barro Blanco-Medellín,6G,Directa No Centro,Transacoop,37332.8405723837
+713,Origen-Destino,103,Sierra,6H,Directa Centro,Cootransi,12448.9094963087
+714,Origen-Destino,C23,San Cristóbal-La Asomadera-Centro,8A,Directa Centro,Tax Maya,16926.7170168451
+715,Origen-Destino,C23i,Las Playas-estación San Javier,8A,Integrada,Tax Maya,9960.54411686984
+716,Destino-Origen,136i,Castropol - Colegio Latino,5A,Integrada,Autobuses Poblado Laureles,8395.89546972736
+717,Destino-Origen,96,Buenos Aires,6A,Directa Centro,Flota la V,11643.3890841911
+718,Destino-Origen,096 Horario Esp,Buenos Aires,6A,Directa Centro,Flota la V,14662.5727240137
+719,Destino-Origen,102D,Ávila-Iglesia Cataluña,6A,Directa Centro,Cootranscataluña,3687.15224247587
+380,Destino-Origen,C3-003R,Belén - Rodeo Alto - Rodeo Verde,,Alimentadora,Masivo de Occidente,5592.43093163286
+722,Destino-Origen,51-52 CV-F,Campo Valdés Ferrocarril,6C,Directa Centro,Expreso Campo Valdés,13480.3683434558
+723,Destino-Origen,51-52 CV-O,Campo Valdés Oriental,6C,Directa Centro,Expreso Campo Valdés,13527.3111178279
+724,Destino-Origen,080 V-33,Villa Hermosa - La Mansión-Directa La 33,6D,Directa Centro,Flota Nueva Villa,10024.1066858397
+725,Destino-Origen,105,El Faro,6F,Directa Centro,Cootransmallat,6017.44962475455
+726,Destino-Origen,98 Directa 1,Santa Elena-Mazo-Las Brisas-Medellín,6G,Directa No Centro,Transacoop,34064.3361756147
+727,Destino-Origen,98 Directa 2,Santa Elena-Barro Blanco-Las Brisas-Medellín,6G,Directa No Centro,Transacoop,34064.3361756147
+728,Destino-Origen,98 Directa 5,Santa Elena-El Plan-Las Brisas-Medellín,6G,Directa No Centro,Transacoop,34064.3361756147
+729,Destino-Origen,98 Directa 7,Santa Elena-Barro Blanco-Medellín,6G,Directa No Centro,Transacoop,34064.3361756147
+730,Destino-Origen,103,Sierra,6H,Directa Centro,Cootransi,6560.96815596416
+731,Destino-Origen,C23,San Cristóbal-La Asomadera-Centro,8A,Directa Centro,Tax Maya,16942.3857530747
+732,Destino-Origen,C23i,Las Playas-estación San Javier,8A,Integrada,Tax Maya,11038.6815557581
+733,Origen-Destino,203 Belencito,Belencito-Corazón-Oriental,8A,Directa Centro,Conducciones América,8600.10678769194
+734,Destino-Origen,203 Belencito,Belencito-Corazón-Oriental,8A,Directa Centro,Conducciones América,9453.82843206834
