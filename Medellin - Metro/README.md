@@ -11,3 +11,9 @@ rutas in pdf https://www.medellin.gov.co/movilidad/component/jdownloads/viewcate
 
 routes
 
+https://geomedellin-m-medellin.opendata.arcgis.com/datasets/rutas-de-transporte-p%C3%BAblico-colectivo
+
+Paradas
+
+https://geomedellin-m-medellin.opendata.arcgis.com/datasets/paradas-de-transporte-p%C3%BAblico-colectivo
+
