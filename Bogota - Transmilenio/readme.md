@@ -1,6 +1,8 @@
 This file is based on the data that is located over here:
 https://www.datos.gov.co/browse?q=gtfs&sortBy=relevance
 
+https://datosabiertos-transmilenio.hub.arcgis.com/search?collection=Document&sort=-modified&tags=gtfs
+
 There is new data thats need work:
 
 http://datosabiertos.bogota.gov.co/dataset?_organization_limit=0&organization=sdm
