@@ -14,6 +14,11 @@ There is new data thats need work:
 
 http://datosabiertos.bogota.gov.co/dataset?_organization_limit=0&organization=sdm
 
+https://datosabiertos.bogota.gov.co/organization/transmilenio
+https://datosabiertos.bogota.gov.co/organization/metro-de-bogota
+https://datosabiertos.bogota.gov.co/organization/sdm
+GTFS-RT: https://gis.transmilenio.gov.co/gtfs/
+
 The data downloaded from this location is not a valid gtfs file. There is some need of processing the .csv downloads. 
 
 Problems:
