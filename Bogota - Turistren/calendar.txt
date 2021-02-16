@@ -1,2 +1,2 @@
 service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-1f946c30-854f-4128-a8cf-d662f8ae6b16,0,0,0,0,0,1,1,20160708,20181231
+SATSUN,0,0,0,0,0,1,1,20210101,20251231

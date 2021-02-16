@@ -1,2 +1,2 @@
-agency_id,agency_name,agency_url,agency_lang,agency_phone,agency_timezone,agency_fare_url
-TT,Turistren,http://www.turistren.com.co/,es,,America/Bogota,
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_branding_url,agency_fare_url,agency_email
+TT,Turistren,http://www.turistren.com.co/,America/Bogota,es,,,,
