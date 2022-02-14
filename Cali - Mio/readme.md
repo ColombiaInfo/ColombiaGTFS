@@ -6,5 +6,7 @@ http://www.metrocali.gov.co/wp/datos-abiertos/
 
  horarios en formato excel: https://www.metrocali.gov.co/wp/wp-content/uploads/2021/07/TABLA-DE-HORARIOS.xlsx
  
+ https://servicios.siur.com.co/buscarutas/?ruta=A21
+ 
 
 
