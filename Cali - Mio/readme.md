@@ -8,5 +8,11 @@ http://www.metrocali.gov.co/wp/datos-abiertos/
  
  https://servicios.siur.com.co/buscarutas/?ruta=A21
  
+ https://servicios.siur.com.co/buscarutas/name.php - All Route and Bus Names
+ https://servicios.siur.com.co/buscarutas/js/lineajson.php?ruta=A21 Route string
+ https://servicios.siur.com.co/buscarutas/marks2.php?ruta=A21 bus positions
+ https://servicios.siur.com.co/buscarutas/marks.php?ruta=A47&0.8272821927404397 Stops postitions
+ https://servicios.siur.com.co/buscarutas/js/clienteXML.php/?parada=514200 stop info board.
+ 
 
 
