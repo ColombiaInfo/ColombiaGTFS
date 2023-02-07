@@ -1,3 +1,7 @@
+There is now a frequent release on this site:
+https://storage.googleapis.com/gtfs-estaticos/
+
+
 This file is based on the data that is located over here:
 https://www.datos.gov.co/browse?q=gtfs&sortBy=relevance
 
