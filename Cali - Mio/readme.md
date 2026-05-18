@@ -1,6 +1,8 @@
 GTFS Files for Mio in Cali Colombia
 
 Old GTFS Files: https://drive.google.com/drive/folders/0ByFeb4cGOyn-V2pwM0lKS0otNzg
+New GTFS Files, not complete gtfs: https://indicadores-y-metas-del-pdm-2020-2023-metrocali.hub.arcgis.com/maps/163af9c688444778b74150cd84f64a8b/about
+
 
 http://www.metrocali.gov.co/wp/datos-abiertos/
 
