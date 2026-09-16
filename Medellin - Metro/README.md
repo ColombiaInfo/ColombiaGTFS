@@ -20,3 +20,7 @@ https://geomedellin-m-medellin.opendata.arcgis.com/datasets/paradas-de-transport
 GTFS: Feb 2024:
 
 https://datosabiertos-metrodemedellin.opendata.arcgis.com/datasets/1717b6bff6c54623835c51be6969738f/about
+
+
+
+https://datosabiertos-metrodemedellin.opendata.arcgis.com/search?categories=%252Fcategories%252Fmovilidad
